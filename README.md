@@ -4,6 +4,26 @@ Addon estático de Stremio con catálogos de Dragon Ball en español, preparado 
 
 Este addon **solo organiza catálogos**. No incluye streams, torrents, magnet links, scraping ni contenido P2P.
 
+## URL del addon
+
+Cuando GitHub Pages esté activado, la URL pública será:
+
+```txt
+https://yancha10.github.io/stremio-dragonball-es-catalog/
+```
+
+Manifest para instalar en Stremio:
+
+```txt
+https://yancha10.github.io/stremio-dragonball-es-catalog/manifest.json
+```
+
+Instalación directa:
+
+```txt
+stremio://yancha10.github.io/stremio-dragonball-es-catalog/manifest.json
+```
+
 ## Qué hace
 
 La pestaña principal del addon es:
@@ -25,48 +45,29 @@ Esa pestaña mezcla series, películas, especiales, OVAs y líneas alternativas 
 - Dragon Ball - Películas canon moderno
 - Dragon Ball - Especiales y OVAs
 
-## Instalación rápida en GitHub Pages
+## Activar GitHub Pages
 
-1. Crea un repositorio nuevo en GitHub.
-2. Sube todos los archivos de esta carpeta al repositorio.
-3. Entra en **Settings > Pages**.
-4. En **Build and deployment**, usa:
-   - **Source:** Deploy from a branch
-   - **Branch:** main
-   - **Folder:** /docs
-5. Guarda.
-6. Abre la web publicada por GitHub Pages.
-
-Tu manifest quedará en:
+En el repositorio, ve a:
 
 ```txt
-https://TU_USUARIO.github.io/TU_REPO/manifest.json
+Settings > Pages
 ```
 
-Instalación directa en Stremio:
+Y configura:
 
 ```txt
-stremio://TU_USUARIO.github.io/TU_REPO/manifest.json
+Source: Deploy from a branch
+Branch: main
+Folder: /docs
 ```
 
-También puedes abrir la URL pública del addon y pulsar el botón **Instalar en Stremio**.
-
-## Documentación completa
-
-Lee el tutorial incluido:
-
-```txt
-TUTORIAL_GITHUB_STREMIO.md
-```
-
-Ahí tienes pasos por interfaz web, pasos por terminal, comprobaciones, solución de errores y cómo actualizar el addon.
+Guarda. GitHub publicará la web del addon.
 
 ## Validar o regenerar el addon
 
-El addon ya viene generado dentro de `docs/`. Solo necesitas Node.js si modificas `src/data/dragonball-data.js`.
+El addon ya viene generado dentro de `docs/`. Solo necesitas Node.js si modificas los JSON o quieres validar.
 
 ```bash
-npm install
 npm run validate
 npm run build
 ```
@@ -74,16 +75,18 @@ npm run build
 ## Estructura
 
 ```txt
-dragonball-stremio-addon/
+stremio-dragonball-es-catalog/
 ├── docs/                         # Carpeta que GitHub Pages publica
 │   ├── manifest.json             # Manifest principal de Stremio
 │   ├── index.html                # Página con botón de instalación
 │   └── catalog/                  # Respuestas JSON de los catálogos
-├── src/data/dragonball-data.js   # Base editable de títulos y catálogos
+├── src/data/dragonball-data.js   # Loader de datos para validar/reconstruir
 ├── scripts/build-static.js       # Generador/validador
 ├── CRONOLOGIA_DRAGON_BALL.md     # Documento de cronología
-├── CRONOLOGIA_DRAGON_BALL.docx   # Documento editable
-└── TUTORIAL_GITHUB_STREMIO.md    # Guía de publicación e instalación
+├── TUTORIAL_GITHUB_STREMIO.md    # Guía de publicación e instalación
+├── package.json
+├── .gitignore
+└── LICENSE
 ```
 
 ## Notas importantes
