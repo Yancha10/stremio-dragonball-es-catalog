@@ -1,0 +1,125 @@
+{
+  "metas": [
+    {
+      "id": "tt0142245",
+      "type": "movie",
+      "name": "Dragon Ball Z: Bardock - The Father of Goku",
+      "poster": "https://images.metahub.space/poster/medium/tt0142245/img",
+      "background": "https://images.metahub.space/background/medium/tt0142245/img",
+      "posterShape": "poster",
+      "releaseInfo": "1990",
+      "genres": [
+        "Anime",
+        "Especial TV"
+      ],
+      "description": "Especial de TV. Precuela clásica de Bardock, parcialmente reemplazada por material moderno.",
+      "status": "incluido"
+    },
+    {
+      "id": "tt1517470",
+      "type": "movie",
+      "name": "Dragon Ball Z: Gather Together! Goku's World",
+      "poster": "https://images.metahub.space/poster/medium/tt1517470/img",
+      "background": "https://images.metahub.space/background/medium/tt1517470/img",
+      "posterShape": "poster",
+      "releaseInfo": "1992",
+      "genres": [
+        "Anime",
+        "OVA"
+      ],
+      "description": "OVA/interactivo educativo. Material raro, no continuidad principal.",
+      "status": "incluido"
+    },
+    {
+      "id": "tt0142247",
+      "type": "movie",
+      "name": "Dragon Ball Z: The History of Trunks",
+      "poster": "https://images.metahub.space/poster/medium/tt0142247/img",
+      "background": "https://images.metahub.space/background/medium/tt0142247/img",
+      "posterShape": "poster",
+      "releaseInfo": "1993",
+      "genres": [
+        "Anime",
+        "Especial TV"
+      ],
+      "description": "Especial de TV de la línea temporal de Trunks del futuro.",
+      "status": "incluido"
+    },
+    {
+      "id": "tt1286785",
+      "type": "movie",
+      "name": "Dragon Ball Z Side Story: Plan to Eradicate the Saiyans",
+      "poster": "https://images.metahub.space/poster/medium/tt1286785/img",
+      "background": "https://images.metahub.space/background/medium/tt1286785/img",
+      "posterShape": "poster",
+      "releaseInfo": "1993",
+      "genres": [
+        "Anime",
+        "OVA"
+      ],
+      "description": "OVA basada en material de videojuego. No continuidad principal.",
+      "status": "incluido"
+    },
+    {
+      "id": "tt0142232",
+      "type": "movie",
+      "name": "Dragon Ball GT: A Hero's Legacy",
+      "poster": "https://images.metahub.space/poster/medium/tt0142232/img",
+      "background": "https://images.metahub.space/background/medium/tt0142232/img",
+      "posterShape": "poster",
+      "releaseInfo": "1997",
+      "genres": [
+        "Anime",
+        "Especial TV",
+        "GT"
+      ],
+      "description": "Especial de GT ambientado mucho después de la serie.",
+      "status": "incluido"
+    },
+    {
+      "id": "tt1317478",
+      "type": "movie",
+      "name": "Dragon Ball: The Return of Son Goku and Friends!",
+      "poster": "https://images.metahub.space/poster/medium/tt1317478/img",
+      "background": "https://images.metahub.space/background/medium/tt1317478/img",
+      "posterShape": "poster",
+      "releaseInfo": "2008",
+      "genres": [
+        "Anime",
+        "OVA"
+      ],
+      "description": "Especial 20 aniversario situado tras Buu.",
+      "status": "incluido"
+    },
+    {
+      "id": "tt4008518",
+      "type": "movie",
+      "name": "Dragon Ball: Plan to Eradicate the Super Saiyans",
+      "poster": "https://images.metahub.space/poster/medium/tt4008518/img",
+      "background": "https://images.metahub.space/background/medium/tt4008518/img",
+      "posterShape": "poster",
+      "releaseInfo": "2010",
+      "genres": [
+        "Anime",
+        "OVA"
+      ],
+      "description": "Remake HD del OVA de 1993 incluido como bonus en Raging Blast 2.",
+      "status": "incluido"
+    },
+    {
+      "id": "tt2980736",
+      "type": "movie",
+      "name": "Dragon Ball: Episode of Bardock",
+      "poster": "https://images.metahub.space/poster/medium/tt2980736/img",
+      "background": "https://images.metahub.space/background/medium/tt2980736/img",
+      "posterShape": "poster",
+      "releaseInfo": "2011",
+      "genres": [
+        "Anime",
+        "OVA"
+      ],
+      "description": "Spin-off de Bardock. Continuidad alternativa.",
+      "status": "incluido"
+    }
+  ]
+}
