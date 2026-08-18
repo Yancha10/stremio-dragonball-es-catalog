@@ -1,0 +1,36 @@
+{
+  "metas": [
+    {
+      "id": "tt0139774",
+      "type": "series",
+      "name": "Dragon Ball GT",
+      "poster": "https://images.metahub.space/poster/medium/tt0139774/img",
+      "background": "https://images.metahub.space/background/medium/tt0139774/img",
+      "posterShape": "poster",
+      "releaseInfo": "1996",
+      "genres": [
+        "Anime",
+        "Aventura",
+        "Alternativo"
+      ],
+      "description": "Secuela televisiva alternativa posterior a Z; separada del eje moderno Super/Daima.",
+      "status": "incluido"
+    },
+    {
+      "id": "tt8433216",
+      "type": "series",
+      "name": "Super Dragon Ball Heroes",
+      "poster": "https://images.metahub.space/poster/medium/tt8433216/img",
+      "background": "https://images.metahub.space/background/medium/tt8433216/img",
+      "posterShape": "poster",
+      "releaseInfo": "2018",
+      "genres": [
+        "Anime",
+        "Promocional",
+        "Alternativo"
+      ],
+      "description": "Anime promocional del videojuego/cartas. No usar como continuidad principal.",
+      "status": "incluido"
+    }
+  ]
+}
