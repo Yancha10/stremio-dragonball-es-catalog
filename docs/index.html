@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dragon Ball ES - Orden de visualización para Stremio</title>
+  <style>
+    :root { color-scheme: dark; }
+    body { font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; margin: 0; background: radial-gradient(circle at top, #1f2937 0, #111827 45%, #030712 100%); color: #f9fafb; }
+    main { max-width: 960px; margin: 0 auto; padding: 48px 20px; }
+    .card { background: rgba(31, 41, 55, .92); border: 1px solid #374151; border-radius: 22px; padding: 30px; box-shadow: 0 22px 70px rgba(0,0,0,.28); }
+    h1 { margin-top: 0; font-size: clamp(30px, 5vw, 46px); line-height: 1.05; }
+    h2 { margin-top: 34px; }
+    p { line-height: 1.6; color: #d1d5db; }
+    code, pre { background: #111827; padding: 3px 6px; border-radius: 6px; color: #fed7aa; }
+    pre { padding: 14px 16px; overflow-x: auto; border: 1px solid #374151; }
+    .buttons { display: flex; flex-wrap: wrap; gap: 12px; margin: 22px 0; }
+    a.button, button { display: inline-block; padding: 14px 18px; background: #f97316; color: #111827; text-decoration: none; border: 0; border-radius: 12px; font-weight: 850; cursor: pointer; font-size: 15px; }
+    button.secondary, a.secondary { background: #374151; color: #f9fafb; }
+    ul { line-height: 1.85; }
+    .highlight { background:#111827; border-radius:14px; padding:16px 18px; border:1px solid #374151; }
+    .small { font-size: 14px; color: #9ca3af; }
+    .ok { color: #86efac; font-weight: 700; }
+  </style>
+</head>
+<body>
+  <main>
+    <section class="card">
+      <h1>Dragon Ball ES - Cronología para Stremio</h1>
+      <p class="highlight"><strong>Pestaña principal:</strong> Dragon Ball - Orden de visualización. Mezcla series, películas, especiales, OVAs y líneas alternativas en un único orden numerado.</p>
+      <p>No incluye streams, torrents, magnet links ni contenido P2P. Es un addon de catálogo para organizar la cronología.</p>
+
+      <div class="buttons">
+        <a id="install" class="button" href="#">Instalar en Stremio</a>
+        <button id="copy" class="secondary" type="button">Copiar manifest URL</button>
+      </div>
+
+      <p class="small">Manifest URL:</p>
+      <pre id="manifest-url"></pre>
+      <p id="copied" class="small" hidden><span class="ok">Copiado.</span> Pega esta URL en Stremio si el botón no abre la app.</p>
+
+      <h2>Catálogos incluidos</h2>
+      <ul>
+        <li><strong>Dragon Ball - Orden de visualización</strong></li>
+        <li>Dragon Ball - Series principales</li>
+        <li>Dragon Ball - Series por estreno</li>
+        <li>Dragon Ball - GT / Heroes</li>
+        <li>Dragon Ball - Películas por estreno</li>
+        <li>Dragon Ball - Películas en orden narrativo</li>
+        <li>Dragon Ball - Películas canon moderno</li>
+        <li>Dragon Ball - Especiales y OVAs</li>
+      </ul>
+
+      <h2>Instalación manual</h2>
+      <p>Si el botón no funciona, copia la URL del manifest y pégala en Stremio en la opción de añadir addon por URL.</p>
+      <p class="small">Ruta principal del catálogo mixto: <code>/catalog/series/db-orden-visualizacion.json</code></p>
+    </section>
+  </main>
+  <script>
+    const base = window.location.href.replace(/index\.html$/, '').replace(/\/$/, '');
+    const manifest = `${base}/manifest.json`;
+    const stremioUrl = `stremio://${manifest.replace(/^https?:\/\//, '')}`;
+    document.getElementById('manifest-url').textContent = manifest;
+    document.getElementById('install').href = stremioUrl;
+    document.getElementById('copy').addEventListener('click', async () => {
+      await navigator.clipboard.writeText(manifest);
+      document.getElementById('copied').hidden = false;
+    });
+  </script>
+</body>
+</html>
