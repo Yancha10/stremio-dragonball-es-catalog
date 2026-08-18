@@ -1,0 +1,68 @@
+{
+  "metas": [
+    {
+      "id": "tt2263944",
+      "type": "movie",
+      "name": "Dragon Ball Z: Battle of Gods",
+      "poster": "https://images.metahub.space/poster/medium/tt2263944/img",
+      "background": "https://images.metahub.space/background/medium/tt2263944/img",
+      "posterShape": "poster",
+      "releaseInfo": "2013",
+      "genres": [
+        "Anime",
+        "Película",
+        "Canon moderno"
+      ],
+      "description": "Introducción de Bills/Beerus y el Super Saiyan God. Recontada en Dragon Ball Super.",
+      "status": "incluido"
+    },
+    {
+      "id": "tt3819668",
+      "type": "movie",
+      "name": "Dragon Ball Z: Resurrection 'F'",
+      "poster": "https://images.metahub.space/poster/medium/tt3819668/img",
+      "background": "https://images.metahub.space/background/medium/tt3819668/img",
+      "posterShape": "poster",
+      "releaseInfo": "2015",
+      "genres": [
+        "Anime",
+        "Película",
+        "Canon moderno"
+      ],
+      "description": "Regreso de Freezer. Recontada en Dragon Ball Super.",
+      "status": "incluido"
+    },
+    {
+      "id": "tt7961060",
+      "type": "movie",
+      "name": "Dragon Ball Super: Broly",
+      "poster": "https://images.metahub.space/poster/medium/tt7961060/img",
+      "background": "https://images.metahub.space/background/medium/tt7961060/img",
+      "posterShape": "poster",
+      "releaseInfo": "2018",
+      "genres": [
+        "Anime",
+        "Película",
+        "Canon moderno"
+      ],
+      "description": "Broly integrado en la continuidad moderna tras el Torneo del Poder.",
+      "status": "incluido"
+    },
+    {
+      "id": "tt14614892",
+      "type": "movie",
+      "name": "Dragon Ball Super: Super Hero",
+      "poster": "https://images.metahub.space/poster/medium/tt14614892/img",
+      "background": "https://images.metahub.space/background/medium/tt14614892/img",
+      "posterShape": "poster",
+      "releaseInfo": "2022",
+      "genres": [
+        "Anime",
+        "Película",
+        "Canon moderno"
+      ],
+      "description": "Película centrada en Gohan, Piccolo y la nueva amenaza Red Ribbon.",
+      "status": "incluido"
+    }
+  ]
+}
