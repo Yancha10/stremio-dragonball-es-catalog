@@ -1,0 +1,14 @@
+{
+  "name": "stremio-dragonball-es-catalog",
+  "version": "1.2.0",
+  "description": "Addon estático de Stremio con catálogos de Dragon Ball en español, usando IDs IMDb y listo para GitHub Pages.",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-static.js",
+    "validate": "node scripts/build-static.js --validate-only"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
