@@ -1,0 +1,120 @@
+{
+  "id": "community.disney.es.catalog",
+  "version": "1.0.0",
+  "name": "Disney · Animación y Pixar",
+  "description": "Catálogos de películas y series por estreno y franquicia. Solo organiza fichas; no incluye reproducción ni enlaces.",
+  "logo": "https://images.metahub.space/logo/medium/tt0029583/img",
+  "background": "https://images.metahub.space/background/medium/tt0029583/img",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "catalogs": [
+    {
+      "id": "disney-todos",
+      "name": "Disney · Todos por estreno",
+      "type": "movie",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "id": "disney-animacion-pixar",
+      "name": "Disney · Animación + Pixar",
+      "type": "movie"
+    },
+    {
+      "id": "disney-animacion",
+      "name": "Disney · Walt Disney Animation",
+      "type": "movie"
+    },
+    {
+      "id": "disney-pixar",
+      "name": "Disney · Pixar",
+      "type": "movie"
+    },
+    {
+      "id": "disney-pictures-clasicos",
+      "name": "Disney · Archivo Pictures 1937–1989",
+      "type": "movie"
+    },
+    {
+      "id": "disney-pictures-1990",
+      "name": "Disney · Archivo Pictures 1990–2009",
+      "type": "movie",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "id": "disney-pictures-2010",
+      "name": "Disney · Archivo Pictures 2010–hoy",
+      "type": "movie",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "id": "disney-clasicos",
+      "name": "Disney · Clásicos 1937–1989",
+      "type": "movie"
+    },
+    {
+      "id": "disney-renacimiento",
+      "name": "Disney · Renacimiento y 2000",
+      "type": "movie"
+    },
+    {
+      "id": "disney-modernos",
+      "name": "Disney · 2010 en adelante",
+      "type": "movie"
+    },
+    {
+      "id": "disney-frozen",
+      "name": "Disney · Frozen",
+      "type": "movie"
+    },
+    {
+      "id": "disney-moana",
+      "name": "Disney · Vaiana / Moana",
+      "type": "movie"
+    },
+    {
+      "id": "disney-zootopia",
+      "name": "Disney · Zootrópolis",
+      "type": "movie"
+    },
+    {
+      "id": "disney-winnie",
+      "name": "Disney · Winnie the Pooh",
+      "type": "movie"
+    },
+    {
+      "id": "disney-ralph",
+      "name": "Disney · Rompe Ralph",
+      "type": "movie"
+    },
+    {
+      "id": "disney-rescatadores",
+      "name": "Disney · Los rescatadores",
+      "type": "movie"
+    }
+  ],
+  "behaviorHints": {
+    "adult": false,
+    "p2p": false,
+    "configurable": false
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metas": [
+    {
+      "id": "tt2948356",
+      "type": "movie",
+      "name": "Zootopia",
+      "poster": "https://images.metahub.space/poster/medium/tt2948356/img",
+      "background": "https://images.metahub.space/background/medium/tt2948356/img",
+      "posterShape": "poster",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt26443597",
+      "type": "movie",
+      "name": "Zootopia 2",
+      "poster": "https://images.metahub.space/poster/medium/tt26443597/img",
+      "background": "https://images.metahub.space/background/medium/tt26443597/img",
+      "posterShape": "poster",
+      "releaseInfo": "2025"
+    }
+  ]
+}

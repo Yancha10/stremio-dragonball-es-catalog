@@ -1,0 +1,40 @@
+{
+  "metas": [
+    {
+      "id": "tt0317219",
+      "type": "movie",
+      "name": "Cars",
+      "poster": "https://images.metahub.space/poster/medium/tt0317219/img",
+      "background": "https://images.metahub.space/background/medium/tt0317219/img",
+      "posterShape": "poster",
+      "releaseInfo": "2006"
+    },
+    {
+      "id": "tt0901686",
+      "type": "movie",
+      "name": "Mater and the Ghostlight",
+      "poster": "https://images.metahub.space/poster/medium/tt0901686/img",
+      "background": "https://images.metahub.space/background/medium/tt0901686/img",
+      "posterShape": "poster",
+      "releaseInfo": "2006"
+    },
+    {
+      "id": "tt1216475",
+      "type": "movie",
+      "name": "Cars 2",
+      "poster": "https://images.metahub.space/poster/medium/tt1216475/img",
+      "background": "https://images.metahub.space/background/medium/tt1216475/img",
+      "posterShape": "poster",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt3606752",
+      "type": "movie",
+      "name": "Cars 3",
+      "poster": "https://images.metahub.space/poster/medium/tt3606752/img",
+      "background": "https://images.metahub.space/background/medium/tt3606752/img",
+      "posterShape": "poster",
+      "releaseInfo": "2017"
+    }
+  ]
+}

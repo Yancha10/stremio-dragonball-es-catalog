@@ -1,0 +1,67 @@
+{
+  "metas": [
+    {
+      "id": "tt1384816",
+      "type": "series",
+      "name": "Cars Toons",
+      "poster": "https://images.metahub.space/poster/medium/tt1384816/img",
+      "background": "https://images.metahub.space/background/medium/tt1384816/img",
+      "posterShape": "poster",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt10167284",
+      "type": "series",
+      "name": "Forky Ask A Question",
+      "poster": "https://images.metahub.space/poster/medium/tt10167284/img",
+      "background": "https://images.metahub.space/background/medium/tt10167284/img",
+      "posterShape": "poster",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt13302848",
+      "type": "series",
+      "name": "Inside Pixar",
+      "poster": "https://images.metahub.space/poster/medium/tt13302848/img",
+      "background": "https://images.metahub.space/background/medium/tt13302848/img",
+      "posterShape": "poster",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt13634444",
+      "type": "series",
+      "name": "Pixar Popcorn",
+      "poster": "https://images.metahub.space/poster/medium/tt13634444/img",
+      "background": "https://images.metahub.space/background/medium/tt13634444/img",
+      "posterShape": "poster",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt11981568",
+      "type": "series",
+      "name": "Cars On The Road",
+      "poster": "https://images.metahub.space/poster/medium/tt11981568/img",
+      "background": "https://images.metahub.space/background/medium/tt11981568/img",
+      "posterShape": "poster",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt33088401",
+      "type": "series",
+      "name": "Dream Productions",
+      "poster": "https://images.metahub.space/poster/medium/tt33088401/img",
+      "background": "https://images.metahub.space/background/medium/tt33088401/img",
+      "posterShape": "poster",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt13624052",
+      "type": "series",
+      "name": "Win Or Lose",
+      "poster": "https://images.metahub.space/poster/medium/tt13624052/img",
+      "background": "https://images.metahub.space/background/medium/tt13624052/img",
+      "posterShape": "poster",
+      "releaseInfo": "2025"
+    }
+  ]
+}

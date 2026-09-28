@@ -1,0 +1,22 @@
+{
+  "metas": [
+    {
+      "id": "tt0198781",
+      "type": "movie",
+      "name": "Monster's Inc.",
+      "poster": "https://images.metahub.space/poster/medium/tt0198781/img",
+      "background": "https://images.metahub.space/background/medium/tt0198781/img",
+      "posterShape": "poster",
+      "releaseInfo": "2001"
+    },
+    {
+      "id": "tt1453405",
+      "type": "movie",
+      "name": "Monster's University",
+      "poster": "https://images.metahub.space/poster/medium/tt1453405/img",
+      "background": "https://images.metahub.space/background/medium/tt1453405/img",
+      "posterShape": "poster",
+      "releaseInfo": "2013"
+    }
+  ]
+}

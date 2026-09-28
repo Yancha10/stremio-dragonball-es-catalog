@@ -1,0 +1,72 @@
+{
+  "id": "community.pixar.es.catalog",
+  "version": "1.0.0",
+  "name": "Pixar · Filmografía",
+  "description": "Catálogos de películas y series por estreno y franquicia. Solo organiza fichas; no incluye reproducción ni enlaces.",
+  "logo": "https://images.metahub.space/logo/medium/tt0114709/img",
+  "background": "https://images.metahub.space/background/medium/tt0114709/img",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "catalogs": [
+    {
+      "id": "pixar-estrenos",
+      "name": "Pixar · Todos los largometrajes (estreno)",
+      "type": "movie"
+    },
+    {
+      "id": "pixar-recientes",
+      "name": "Pixar · Más recientes",
+      "type": "movie"
+    },
+    {
+      "id": "pixar-toy-story",
+      "name": "Pixar · Toy Story",
+      "type": "movie"
+    },
+    {
+      "id": "pixar-cars",
+      "name": "Pixar · Cars",
+      "type": "movie"
+    },
+    {
+      "id": "pixar-emociones",
+      "name": "Pixar · Del revés",
+      "type": "movie"
+    },
+    {
+      "id": "pixar-monstruos",
+      "name": "Pixar · Monstruos",
+      "type": "movie"
+    },
+    {
+      "id": "pixar-buscando",
+      "name": "Pixar · Nemo y Dory",
+      "type": "movie"
+    },
+    {
+      "id": "pixar-increibles",
+      "name": "Pixar · Los Increíbles",
+      "type": "movie"
+    },
+    {
+      "id": "pixar-cortos",
+      "name": "Pixar · Cortometrajes",
+      "type": "movie"
+    },
+    {
+      "id": "pixar-series",
+      "name": "Pixar · Series",
+      "type": "series"
+    }
+  ],
+  "behaviorHints": {
+    "adult": false,
+    "p2p": false,
+    "configurable": false
+  }
+}
