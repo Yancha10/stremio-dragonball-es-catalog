@@ -1,0 +1,904 @@
+{
+  "metas": [
+    {
+      "id": "tt0092638",
+      "type": "movie",
+      "name": "Benji the Hunted",
+      "poster": "https://images.metahub.space/poster/medium/tt0092638/img",
+      "background": "https://images.metahub.space/background/medium/tt0092638/img",
+      "posterShape": "poster",
+      "releaseInfo": "1987"
+    },
+    {
+      "id": "tt12414564",
+      "type": "movie",
+      "name": "Oilspot and Lipstick",
+      "poster": "https://images.metahub.space/poster/medium/tt12414564/img",
+      "background": "https://images.metahub.space/background/medium/tt12414564/img",
+      "posterShape": "poster",
+      "releaseInfo": "1987"
+    },
+    {
+      "id": "tt0095776",
+      "type": "movie",
+      "name": "Oliver & Company",
+      "poster": "https://images.metahub.space/poster/medium/tt0095776/img",
+      "background": "https://images.metahub.space/background/medium/tt0095776/img",
+      "posterShape": "poster",
+      "releaseInfo": "1988"
+    },
+    {
+      "id": "tt0095993",
+      "type": "movie",
+      "name": "The Man from Snowy River II",
+      "poster": "https://images.metahub.space/poster/medium/tt0095993/img",
+      "background": "https://images.metahub.space/background/medium/tt0095993/img",
+      "posterShape": "poster",
+      "releaseInfo": "1988"
+    },
+    {
+      "id": "tt0097053",
+      "type": "movie",
+      "name": "Cheetah",
+      "poster": "https://images.metahub.space/poster/medium/tt0097053/img",
+      "background": "https://images.metahub.space/background/medium/tt0097053/img",
+      "posterShape": "poster",
+      "releaseInfo": "1989"
+    },
+    {
+      "id": "tt0097523",
+      "type": "movie",
+      "name": "Honey, I Shrunk the Kids",
+      "poster": "https://images.metahub.space/poster/medium/tt0097523/img",
+      "background": "https://images.metahub.space/background/medium/tt0097523/img",
+      "posterShape": "poster",
+      "releaseInfo": "1989"
+    },
+    {
+      "id": "tt0097674",
+      "type": "movie",
+      "name": "Knick Knack",
+      "poster": "https://images.metahub.space/poster/medium/tt0097674/img",
+      "background": "https://images.metahub.space/background/medium/tt0097674/img",
+      "posterShape": "poster",
+      "releaseInfo": "1989"
+    },
+    {
+      "id": "tt0097757",
+      "type": "movie",
+      "name": "The Little Mermaid",
+      "poster": "https://images.metahub.space/poster/medium/tt0097757/img",
+      "background": "https://images.metahub.space/background/medium/tt0097757/img",
+      "posterShape": "poster",
+      "releaseInfo": "1989"
+    },
+    {
+      "id": "tt0100821",
+      "type": "movie",
+      "name": "Tummy Trouble",
+      "poster": "https://images.metahub.space/poster/medium/tt0100821/img",
+      "background": "https://images.metahub.space/background/medium/tt0100821/img",
+      "posterShape": "poster",
+      "releaseInfo": "1989"
+    },
+    {
+      "id": "tt0099472",
+      "type": "movie",
+      "name": "DuckTales the Movie: Treasure of the Lost Lamp",
+      "poster": "https://images.metahub.space/poster/medium/tt0099472/img",
+      "background": "https://images.metahub.space/background/medium/tt0099472/img",
+      "posterShape": "poster",
+      "releaseInfo": "1990"
+    },
+    {
+      "id": "tt0099816",
+      "type": "movie",
+      "name": "Shipwrecked",
+      "poster": "https://images.metahub.space/poster/medium/tt0099816/img",
+      "background": "https://images.metahub.space/background/medium/tt0099816/img",
+      "posterShape": "poster",
+      "releaseInfo": "1990"
+    },
+    {
+      "id": "tt0100409",
+      "type": "movie",
+      "name": "The Prince and the Pauper",
+      "poster": "https://images.metahub.space/poster/medium/tt0100409/img",
+      "background": "https://images.metahub.space/background/medium/tt0100409/img",
+      "posterShape": "poster",
+      "releaseInfo": "1990"
+    },
+    {
+      "id": "tt0100477",
+      "type": "movie",
+      "name": "The Rescuers Down Under",
+      "poster": "https://images.metahub.space/poster/medium/tt0100477/img",
+      "background": "https://images.metahub.space/background/medium/tt0100477/img",
+      "posterShape": "poster",
+      "releaseInfo": "1990"
+    },
+    {
+      "id": "tt0101414",
+      "type": "movie",
+      "name": "Beauty and the Beast",
+      "poster": "https://images.metahub.space/poster/medium/tt0101414/img",
+      "background": "https://images.metahub.space/background/medium/tt0101414/img",
+      "posterShape": "poster",
+      "releaseInfo": "1991"
+    },
+    {
+      "id": "tt0102803",
+      "type": "movie",
+      "name": "The Rocketeer",
+      "poster": "https://images.metahub.space/poster/medium/tt0102803/img",
+      "background": "https://images.metahub.space/background/medium/tt0102803/img",
+      "posterShape": "poster",
+      "releaseInfo": "1991"
+    },
+    {
+      "id": "tt0103247",
+      "type": "movie",
+      "name": "White Fang",
+      "poster": "https://images.metahub.space/poster/medium/tt0103247/img",
+      "background": "https://images.metahub.space/background/medium/tt0103247/img",
+      "posterShape": "poster",
+      "releaseInfo": "1991"
+    },
+    {
+      "id": "tt0103262",
+      "type": "movie",
+      "name": "Wild Hearts Can't Be Broken",
+      "poster": "https://images.metahub.space/poster/medium/tt0103262/img",
+      "background": "https://images.metahub.space/background/medium/tt0103262/img",
+      "posterShape": "poster",
+      "releaseInfo": "1991"
+    },
+    {
+      "id": "tt0103639",
+      "type": "movie",
+      "name": "Aladdin",
+      "poster": "https://images.metahub.space/poster/medium/tt0103639/img",
+      "background": "https://images.metahub.space/background/medium/tt0103639/img",
+      "posterShape": "poster",
+      "releaseInfo": "1992"
+    },
+    {
+      "id": "tt0104437",
+      "type": "movie",
+      "name": "Honey, I Blew Up the Kid",
+      "poster": "https://images.metahub.space/poster/medium/tt0104437/img",
+      "background": "https://images.metahub.space/background/medium/tt0104437/img",
+      "posterShape": "poster",
+      "releaseInfo": "1992"
+    },
+    {
+      "id": "tt0104990",
+      "type": "movie",
+      "name": "Newsies",
+      "poster": "https://images.metahub.space/poster/medium/tt0104990/img",
+      "background": "https://images.metahub.space/background/medium/tt0104990/img",
+      "posterShape": "poster",
+      "releaseInfo": "1992"
+    },
+    {
+      "id": "tt0104868",
+      "type": "movie",
+      "name": "The Mighty Ducks",
+      "poster": "https://images.metahub.space/poster/medium/tt0104868/img",
+      "background": "https://images.metahub.space/background/medium/tt0104868/img",
+      "posterShape": "poster",
+      "releaseInfo": "1992"
+    },
+    {
+      "id": "tt0104940",
+      "type": "movie",
+      "name": "The Muppet Christmas Carol",
+      "poster": "https://images.metahub.space/poster/medium/tt0104940/img",
+      "background": "https://images.metahub.space/background/medium/tt0104940/img",
+      "posterShape": "poster",
+      "releaseInfo": "1992"
+    },
+    {
+      "id": "tt0106868",
+      "type": "movie",
+      "name": "A Far Off Place",
+      "poster": "https://images.metahub.space/poster/medium/tt0106868/img",
+      "background": "https://images.metahub.space/background/medium/tt0106868/img",
+      "posterShape": "poster",
+      "releaseInfo": "1993"
+    },
+    {
+      "id": "tt0106611",
+      "type": "movie",
+      "name": "Cool Runnings",
+      "poster": "https://images.metahub.space/poster/medium/tt0106611/img",
+      "background": "https://images.metahub.space/background/medium/tt0106611/img",
+      "posterShape": "poster",
+      "releaseInfo": "1993"
+    },
+    {
+      "id": "tt0107120",
+      "type": "movie",
+      "name": "Hocus Pocus",
+      "poster": "https://images.metahub.space/poster/medium/tt0107120/img",
+      "background": "https://images.metahub.space/background/medium/tt0107120/img",
+      "posterShape": "poster",
+      "releaseInfo": "1993"
+    },
+    {
+      "id": "tt0107131",
+      "type": "movie",
+      "name": "Homeward Bound: The Incredible Journey",
+      "poster": "https://images.metahub.space/poster/medium/tt0107131/img",
+      "background": "https://images.metahub.space/background/medium/tt0107131/img",
+      "posterShape": "poster",
+      "releaseInfo": "1993"
+    },
+    {
+      "id": "tt0106223",
+      "type": "movie",
+      "name": "The Adventures of Huck Finn",
+      "poster": "https://images.metahub.space/poster/medium/tt0106223/img",
+      "background": "https://images.metahub.space/background/medium/tt0106223/img",
+      "posterShape": "poster",
+      "releaseInfo": "1993"
+    },
+    {
+      "id": "tt0107688",
+      "type": "movie",
+      "name": "The Nightmare Before Christmas",
+      "poster": "https://images.metahub.space/poster/medium/tt0107688/img",
+      "background": "https://images.metahub.space/background/medium/tt0107688/img",
+      "posterShape": "poster",
+      "releaseInfo": "1993"
+    },
+    {
+      "id": "tt0108333",
+      "type": "movie",
+      "name": "The Three Musketeers",
+      "poster": "https://images.metahub.space/poster/medium/tt0108333/img",
+      "background": "https://images.metahub.space/background/medium/tt0108333/img",
+      "posterShape": "poster",
+      "releaseInfo": "1993"
+    },
+    {
+      "id": "tt0108377",
+      "type": "movie",
+      "name": "Trail Mix-Up",
+      "poster": "https://images.metahub.space/poster/medium/tt0108377/img",
+      "background": "https://images.metahub.space/background/medium/tt0108377/img",
+      "posterShape": "poster",
+      "releaseInfo": "1993"
+    },
+    {
+      "id": "tt0109127",
+      "type": "movie",
+      "name": "Angels in the Outfield",
+      "poster": "https://images.metahub.space/poster/medium/tt0109127/img",
+      "background": "https://images.metahub.space/background/medium/tt0109127/img",
+      "posterShape": "poster",
+      "releaseInfo": "1994"
+    },
+    {
+      "id": "tt0109287",
+      "type": "movie",
+      "name": "Blank Check",
+      "poster": "https://images.metahub.space/poster/medium/tt0109287/img",
+      "background": "https://images.metahub.space/background/medium/tt0109287/img",
+      "posterShape": "poster",
+      "releaseInfo": "1994"
+    },
+    {
+      "id": "tt0109520",
+      "type": "movie",
+      "name": "D2: The Mighty Ducks",
+      "poster": "https://images.metahub.space/poster/medium/tt0109520/img",
+      "background": "https://images.metahub.space/background/medium/tt0109520/img",
+      "posterShape": "poster",
+      "releaseInfo": "1994"
+    },
+    {
+      "id": "tt0110157",
+      "type": "movie",
+      "name": "Iron Will",
+      "poster": "https://images.metahub.space/poster/medium/tt0110157/img",
+      "background": "https://images.metahub.space/background/medium/tt0110157/img",
+      "posterShape": "poster",
+      "releaseInfo": "1994"
+    },
+    {
+      "id": "tt0110213",
+      "type": "movie",
+      "name": "Rudyard Kipling's The Jungle Book",
+      "poster": "https://images.metahub.space/poster/medium/tt0110213/img",
+      "background": "https://images.metahub.space/background/medium/tt0110213/img",
+      "posterShape": "poster",
+      "releaseInfo": "1994"
+    },
+    {
+      "id": "tt0111271",
+      "type": "movie",
+      "name": "Squanto: A Warrior's Tale",
+      "poster": "https://images.metahub.space/poster/medium/tt0111271/img",
+      "background": "https://images.metahub.space/background/medium/tt0111271/img",
+      "posterShape": "poster",
+      "releaseInfo": "1994"
+    },
+    {
+      "id": "tt0110357",
+      "type": "movie",
+      "name": "The Lion King",
+      "poster": "https://images.metahub.space/poster/medium/tt0110357/img",
+      "background": "https://images.metahub.space/background/medium/tt0110357/img",
+      "posterShape": "poster",
+      "releaseInfo": "1994"
+    },
+    {
+      "id": "tt0111070",
+      "type": "movie",
+      "name": "The Santa Clause",
+      "poster": "https://images.metahub.space/poster/medium/tt0111070/img",
+      "background": "https://images.metahub.space/background/medium/tt0111070/img",
+      "posterShape": "poster",
+      "releaseInfo": "1994"
+    },
+    {
+      "id": "tt0111701",
+      "type": "movie",
+      "name": "White Fang 2: Myth of the White Wolf",
+      "poster": "https://images.metahub.space/poster/medium/tt0111701/img",
+      "background": "https://images.metahub.space/background/medium/tt0111701/img",
+      "posterShape": "poster",
+      "releaseInfo": "1994"
+    },
+    {
+      "id": "tt0113198",
+      "type": "movie",
+      "name": "A Goofy Movie",
+      "poster": "https://images.metahub.space/poster/medium/tt0113198/img",
+      "background": "https://images.metahub.space/background/medium/tt0113198/img",
+      "posterShape": "poster",
+      "releaseInfo": "1995"
+    },
+    {
+      "id": "tt0113538",
+      "type": "movie",
+      "name": "A Kid in King Arthur's Court",
+      "poster": "https://images.metahub.space/poster/medium/tt0113538/img",
+      "background": "https://images.metahub.space/background/medium/tt0113538/img",
+      "posterShape": "poster",
+      "releaseInfo": "1995"
+    },
+    {
+      "id": "tt0113104",
+      "type": "movie",
+      "name": "Frank and Ollie",
+      "poster": "https://images.metahub.space/poster/medium/tt0113104/img",
+      "background": "https://images.metahub.space/background/medium/tt0113104/img",
+      "posterShape": "poster",
+      "releaseInfo": "1995"
+    },
+    {
+      "id": "tt0110006",
+      "type": "movie",
+      "name": "Heavyweights",
+      "poster": "https://images.metahub.space/poster/medium/tt0110006/img",
+      "background": "https://images.metahub.space/background/medium/tt0110006/img",
+      "posterShape": "poster",
+      "releaseInfo": "1995"
+    },
+    {
+      "id": "tt0113755",
+      "type": "movie",
+      "name": "Man of the House",
+      "poster": "https://images.metahub.space/poster/medium/tt0113755/img",
+      "background": "https://images.metahub.space/background/medium/tt0113755/img",
+      "posterShape": "poster",
+      "releaseInfo": "1995"
+    },
+    {
+      "id": "tt0114048",
+      "type": "movie",
+      "name": "Operation Dumbo Drop",
+      "poster": "https://images.metahub.space/poster/medium/tt0114048/img",
+      "background": "https://images.metahub.space/background/medium/tt0114048/img",
+      "posterShape": "poster",
+      "releaseInfo": "1995"
+    },
+    {
+      "id": "tt0114148",
+      "type": "movie",
+      "name": "Pocahontas",
+      "poster": "https://images.metahub.space/poster/medium/tt0114148/img",
+      "background": "https://images.metahub.space/background/medium/tt0114148/img",
+      "posterShape": "poster",
+      "releaseInfo": "1995"
+    },
+    {
+      "id": "tt0114308",
+      "type": "movie",
+      "name": "Runaway Brain",
+      "poster": "https://images.metahub.space/poster/medium/tt0114308/img",
+      "background": "https://images.metahub.space/background/medium/tt0114308/img",
+      "posterShape": "poster",
+      "releaseInfo": "1995"
+    },
+    {
+      "id": "tt0111359",
+      "type": "movie",
+      "name": "Tall Tale",
+      "poster": "https://images.metahub.space/poster/medium/tt0111359/img",
+      "background": "https://images.metahub.space/background/medium/tt0111359/img",
+      "posterShape": "poster",
+      "releaseInfo": "1995"
+    },
+    {
+      "id": "tt0112457",
+      "type": "movie",
+      "name": "The Barefoot Executive",
+      "poster": "https://images.metahub.space/poster/medium/tt0112457/img",
+      "background": "https://images.metahub.space/background/medium/tt0112457/img",
+      "posterShape": "poster",
+      "releaseInfo": "1995"
+    },
+    {
+      "id": "tt0112499",
+      "type": "movie",
+      "name": "The Big Green",
+      "poster": "https://images.metahub.space/poster/medium/tt0112499/img",
+      "background": "https://images.metahub.space/background/medium/tt0112499/img",
+      "posterShape": "poster",
+      "releaseInfo": "1995"
+    },
+    {
+      "id": "tt0112302",
+      "type": "movie",
+      "name": "Tom and Huck",
+      "poster": "https://images.metahub.space/poster/medium/tt0112302/img",
+      "background": "https://images.metahub.space/background/medium/tt0112302/img",
+      "posterShape": "poster",
+      "releaseInfo": "1995"
+    },
+    {
+      "id": "tt0114709",
+      "type": "movie",
+      "name": "Toy Story",
+      "poster": "https://images.metahub.space/poster/medium/tt0114709/img",
+      "background": "https://images.metahub.space/background/medium/tt0114709/img",
+      "posterShape": "poster",
+      "releaseInfo": "1995"
+    },
+    {
+      "id": "tt0115433",
+      "type": "movie",
+      "name": "101 Dalmatians",
+      "poster": "https://images.metahub.space/poster/medium/tt0115433/img",
+      "background": "https://images.metahub.space/background/medium/tt0115433/img",
+      "posterShape": "poster",
+      "releaseInfo": "1996"
+    },
+    {
+      "id": "tt0115491",
+      "type": "movie",
+      "name": "Aladdin and the King of Thieves",
+      "poster": "https://images.metahub.space/poster/medium/tt0115491/img",
+      "background": "https://images.metahub.space/background/medium/tt0115491/img",
+      "posterShape": "poster",
+      "releaseInfo": "1996"
+    },
+    {
+      "id": "tt0116000",
+      "type": "movie",
+      "name": "D3: The Mighty Ducks",
+      "poster": "https://images.metahub.space/poster/medium/tt0116000/img",
+      "background": "https://images.metahub.space/background/medium/tt0116000/img",
+      "posterShape": "poster",
+      "releaseInfo": "1996"
+    },
+    {
+      "id": "tt0116311",
+      "type": "movie",
+      "name": "First Kid",
+      "poster": "https://images.metahub.space/poster/medium/tt0116311/img",
+      "background": "https://images.metahub.space/background/medium/tt0116311/img",
+      "posterShape": "poster",
+      "releaseInfo": "1996"
+    },
+    {
+      "id": "tt0116552",
+      "type": "movie",
+      "name": "Homeward Bound II: Lost in San Francisco",
+      "poster": "https://images.metahub.space/poster/medium/tt0116552/img",
+      "background": "https://images.metahub.space/background/medium/tt0116552/img",
+      "posterShape": "poster",
+      "releaseInfo": "1996"
+    },
+    {
+      "id": "tt0116683",
+      "type": "movie",
+      "name": "James and the Giant Peach",
+      "poster": "https://images.metahub.space/poster/medium/tt0116683/img",
+      "background": "https://images.metahub.space/background/medium/tt0116683/img",
+      "posterShape": "poster",
+      "releaseInfo": "1996"
+    },
+    {
+      "id": "tt0117110",
+      "type": "movie",
+      "name": "Muppet Treasure Island",
+      "poster": "https://images.metahub.space/poster/medium/tt0117110/img",
+      "background": "https://images.metahub.space/background/medium/tt0117110/img",
+      "posterShape": "poster",
+      "releaseInfo": "1996"
+    },
+    {
+      "id": "tt0116583",
+      "type": "movie",
+      "name": "The Hunchback of Notre Dame",
+      "poster": "https://images.metahub.space/poster/medium/tt0116583/img",
+      "background": "https://images.metahub.space/background/medium/tt0116583/img",
+      "posterShape": "poster",
+      "releaseInfo": "1996"
+    },
+    {
+      "id": "tt0118570",
+      "type": "movie",
+      "name": "Air Bud",
+      "poster": "https://images.metahub.space/poster/medium/tt0118570/img",
+      "background": "https://images.metahub.space/background/medium/tt0118570/img",
+      "posterShape": "poster",
+      "releaseInfo": "1997"
+    },
+    {
+      "id": "tt0119137",
+      "type": "movie",
+      "name": "Flubber",
+      "poster": "https://images.metahub.space/poster/medium/tt0119137/img",
+      "background": "https://images.metahub.space/background/medium/tt0119137/img",
+      "posterShape": "poster",
+      "releaseInfo": "1997"
+    },
+    {
+      "id": "tt0119190",
+      "type": "movie",
+      "name": "George of the Jungle",
+      "poster": "https://images.metahub.space/poster/medium/tt0119190/img",
+      "background": "https://images.metahub.space/background/medium/tt0119190/img",
+      "posterShape": "poster",
+      "releaseInfo": "1997"
+    },
+    {
+      "id": "tt0119282",
+      "type": "movie",
+      "name": "Hercules",
+      "poster": "https://images.metahub.space/poster/medium/tt0119282/img",
+      "background": "https://images.metahub.space/background/medium/tt0119282/img",
+      "posterShape": "poster",
+      "releaseInfo": "1997"
+    },
+    {
+      "id": "tt0119310",
+      "type": "movie",
+      "name": "Honey, We Shrunk Ourselves",
+      "poster": "https://images.metahub.space/poster/medium/tt0119310/img",
+      "background": "https://images.metahub.space/background/medium/tt0119310/img",
+      "posterShape": "poster",
+      "releaseInfo": "1997"
+    },
+    {
+      "id": "tt0119432",
+      "type": "movie",
+      "name": "Jungle 2 Jungle",
+      "poster": "https://images.metahub.space/poster/medium/tt0119432/img",
+      "background": "https://images.metahub.space/background/medium/tt0119432/img",
+      "posterShape": "poster",
+      "releaseInfo": "1997"
+    },
+    {
+      "id": "tt0119718",
+      "type": "movie",
+      "name": "Mr. Magoo",
+      "poster": "https://images.metahub.space/poster/medium/tt0119718/img",
+      "background": "https://images.metahub.space/background/medium/tt0119718/img",
+      "posterShape": "poster",
+      "releaseInfo": "1997"
+    },
+    {
+      "id": "tt0120029",
+      "type": "movie",
+      "name": "RocketMan",
+      "poster": "https://images.metahub.space/poster/medium/tt0120029/img",
+      "background": "https://images.metahub.space/background/medium/tt0120029/img",
+      "posterShape": "poster",
+      "releaseInfo": "1997"
+    },
+    {
+      "id": "tt0120317",
+      "type": "movie",
+      "name": "That Darn Cat",
+      "poster": "https://images.metahub.space/poster/medium/tt0120317/img",
+      "background": "https://images.metahub.space/background/medium/tt0120317/img",
+      "posterShape": "poster",
+      "releaseInfo": "1997"
+    },
+    {
+      "id": "tt0324570",
+      "type": "movie",
+      "name": "Winnie the Pooh Friendship: Pooh Wishes",
+      "poster": "https://images.metahub.space/poster/medium/tt0324570/img",
+      "background": "https://images.metahub.space/background/medium/tt0324570/img",
+      "posterShape": "poster",
+      "releaseInfo": "1997"
+    },
+    {
+      "id": "tt0120623",
+      "type": "movie",
+      "name": "A Bug's Life",
+      "poster": "https://images.metahub.space/poster/medium/tt0120623/img",
+      "background": "https://images.metahub.space/background/medium/tt0120623/img",
+      "posterShape": "poster",
+      "releaseInfo": "1998"
+    },
+    {
+      "id": "tt0211409",
+      "type": "movie",
+      "name": "Hercules: Zero to Hero",
+      "poster": "https://images.metahub.space/poster/medium/tt0211409/img",
+      "background": "https://images.metahub.space/background/medium/tt0211409/img",
+      "posterShape": "poster",
+      "releaseInfo": "1998"
+    },
+    {
+      "id": "tt0155753",
+      "type": "movie",
+      "name": "I'll Be Home for Christmas",
+      "poster": "https://images.metahub.space/poster/medium/tt0155753/img",
+      "background": "https://images.metahub.space/background/medium/tt0155753/img",
+      "posterShape": "poster",
+      "releaseInfo": "1998"
+    },
+    {
+      "id": "tt0120645",
+      "type": "movie",
+      "name": "Meet the Deedles",
+      "poster": "https://images.metahub.space/poster/medium/tt0120645/img",
+      "background": "https://images.metahub.space/background/medium/tt0120645/img",
+      "posterShape": "poster",
+      "releaseInfo": "1998"
+    },
+    {
+      "id": "tt0120751",
+      "type": "movie",
+      "name": "Mighty Joe Young",
+      "poster": "https://images.metahub.space/poster/medium/tt0120751/img",
+      "background": "https://images.metahub.space/background/medium/tt0120751/img",
+      "posterShape": "poster",
+      "releaseInfo": "1998"
+    },
+    {
+      "id": "tt0120762",
+      "type": "movie",
+      "name": "Mulan",
+      "poster": "https://images.metahub.space/poster/medium/tt0120762/img",
+      "background": "https://images.metahub.space/background/medium/tt0120762/img",
+      "posterShape": "poster",
+      "releaseInfo": "1998"
+    },
+    {
+      "id": "tt0143808",
+      "type": "movie",
+      "name": "Pocahontas II: Journey to a New World",
+      "poster": "https://images.metahub.space/poster/medium/tt0143808/img",
+      "background": "https://images.metahub.space/background/medium/tt0143808/img",
+      "posterShape": "poster",
+      "releaseInfo": "1998"
+    },
+    {
+      "id": "tt0144262",
+      "type": "movie",
+      "name": "The Jungle Book: Mowgli's Story",
+      "poster": "https://images.metahub.space/poster/medium/tt0144262/img",
+      "background": "https://images.metahub.space/background/medium/tt0144262/img",
+      "posterShape": "poster",
+      "releaseInfo": "1998"
+    },
+    {
+      "id": "tt0120131",
+      "type": "movie",
+      "name": "The Lion King II: Simba's Pride",
+      "poster": "https://images.metahub.space/poster/medium/tt0120131/img",
+      "background": "https://images.metahub.space/background/medium/tt0120131/img",
+      "posterShape": "poster",
+      "releaseInfo": "1998"
+    },
+    {
+      "id": "tt0120783",
+      "type": "movie",
+      "name": "The Parent Trap",
+      "poster": "https://images.metahub.space/poster/medium/tt0120783/img",
+      "background": "https://images.metahub.space/background/medium/tt0120783/img",
+      "posterShape": "poster",
+      "releaseInfo": "1998"
+    },
+    {
+      "id": "tt0187819",
+      "type": "movie",
+      "name": "Doug's 1st Movie",
+      "poster": "https://images.metahub.space/poster/medium/tt0187819/img",
+      "background": "https://images.metahub.space/background/medium/tt0187819/img",
+      "posterShape": "poster",
+      "releaseInfo": "1999"
+    },
+    {
+      "id": "tt0120659",
+      "type": "movie",
+      "name": "Endurance",
+      "poster": "https://images.metahub.space/poster/medium/tt0120659/img",
+      "background": "https://images.metahub.space/background/medium/tt0120659/img",
+      "posterShape": "poster",
+      "releaseInfo": "1999"
+    },
+    {
+      "id": "tt0120910",
+      "type": "movie",
+      "name": "Fantasia 2000",
+      "poster": "https://images.metahub.space/poster/medium/tt0120910/img",
+      "background": "https://images.metahub.space/background/medium/tt0120910/img",
+      "posterShape": "poster",
+      "releaseInfo": "1999"
+    },
+    {
+      "id": "tt0141369",
+      "type": "movie",
+      "name": "Inspector Gadget",
+      "poster": "https://images.metahub.space/poster/medium/tt0141369/img",
+      "background": "https://images.metahub.space/background/medium/tt0141369/img",
+      "posterShape": "poster",
+      "releaseInfo": "1999"
+    },
+    {
+      "id": "tt0238414",
+      "type": "movie",
+      "name": "Mickey's Once Upon a Christmas",
+      "poster": "https://images.metahub.space/poster/medium/tt0238414/img",
+      "background": "https://images.metahub.space/background/medium/tt0238414/img",
+      "posterShape": "poster",
+      "releaseInfo": "1999"
+    },
+    {
+      "id": "tt0120764",
+      "type": "movie",
+      "name": "My Favorite Martian",
+      "poster": "https://images.metahub.space/poster/medium/tt0120764/img",
+      "background": "https://images.metahub.space/background/medium/tt0120764/img",
+      "posterShape": "poster",
+      "releaseInfo": "1999"
+    },
+    {
+      "id": "tt0120855",
+      "type": "movie",
+      "name": "Tarzan",
+      "poster": "https://images.metahub.space/poster/medium/tt0120855/img",
+      "background": "https://images.metahub.space/background/medium/tt0120855/img",
+      "posterShape": "poster",
+      "releaseInfo": "1999"
+    },
+    {
+      "id": "tt0179496",
+      "type": "movie",
+      "name": "The Hand Behind the Mouse: The Ub Iwerks Story",
+      "poster": "https://images.metahub.space/poster/medium/tt0179496/img",
+      "background": "https://images.metahub.space/background/medium/tt0179496/img",
+      "posterShape": "poster",
+      "releaseInfo": "1999"
+    },
+    {
+      "id": "tt0166896",
+      "type": "movie",
+      "name": "The Straight Story",
+      "poster": "https://images.metahub.space/poster/medium/tt0166896/img",
+      "background": "https://images.metahub.space/background/medium/tt0166896/img",
+      "posterShape": "poster",
+      "releaseInfo": "1999"
+    },
+    {
+      "id": "tt0120363",
+      "type": "movie",
+      "name": "Toy Story 2",
+      "poster": "https://images.metahub.space/poster/medium/tt0120363/img",
+      "background": "https://images.metahub.space/background/medium/tt0120363/img",
+      "posterShape": "poster",
+      "releaseInfo": "1999"
+    },
+    {
+      "id": "tt0211181",
+      "type": "movie",
+      "name": "102 Dalmatians",
+      "poster": "https://images.metahub.space/poster/medium/tt0211181/img",
+      "background": "https://images.metahub.space/background/medium/tt0211181/img",
+      "posterShape": "poster",
+      "releaseInfo": "2000"
+    },
+    {
+      "id": "tt0208185",
+      "type": "movie",
+      "name": "An Extremely Goofy Movie",
+      "poster": "https://images.metahub.space/poster/medium/tt0208185/img",
+      "background": "https://images.metahub.space/background/medium/tt0208185/img",
+      "posterShape": "poster",
+      "releaseInfo": "2000"
+    },
+    {
+      "id": "tt0130623",
+      "type": "movie",
+      "name": "Dinosaur",
+      "poster": "https://images.metahub.space/poster/medium/tt0130623/img",
+      "background": "https://images.metahub.space/background/medium/tt0130623/img",
+      "posterShape": "poster",
+      "releaseInfo": "2000"
+    },
+    {
+      "id": "tt0219854",
+      "type": "movie",
+      "name": "Disney's The Kid",
+      "poster": "https://images.metahub.space/poster/medium/tt0219854/img",
+      "background": "https://images.metahub.space/background/medium/tt0219854/img",
+      "posterShape": "poster",
+      "releaseInfo": "2000"
+    },
+    {
+      "id": "tt0197655",
+      "type": "movie",
+      "name": "Mail to the Chief",
+      "poster": "https://images.metahub.space/poster/medium/tt0197655/img",
+      "background": "https://images.metahub.space/background/medium/tt0197655/img",
+      "posterShape": "poster",
+      "releaseInfo": "2000"
+    },
+    {
+      "id": "tt0210945",
+      "type": "movie",
+      "name": "Remember the Titans",
+      "poster": "https://images.metahub.space/poster/medium/tt0210945/img",
+      "background": "https://images.metahub.space/background/medium/tt0210945/img",
+      "posterShape": "poster",
+      "releaseInfo": "2000"
+    },
+    {
+      "id": "tt0120917",
+      "type": "movie",
+      "name": "The Emperor's New Groove",
+      "poster": "https://images.metahub.space/poster/medium/tt0120917/img",
+      "background": "https://images.metahub.space/background/medium/tt0120917/img",
+      "posterShape": "poster",
+      "releaseInfo": "2000"
+    },
+    {
+      "id": "tt0240684",
+      "type": "movie",
+      "name": "The Little Mermaid II: Return to the Sea",
+      "poster": "https://images.metahub.space/poster/medium/tt0240684/img",
+      "background": "https://images.metahub.space/background/medium/tt0240684/img",
+      "posterShape": "poster",
+      "releaseInfo": "2000"
+    },
+    {
+      "id": "tt0220099",
+      "type": "movie",
+      "name": "The Tigger Movie",
+      "poster": "https://images.metahub.space/poster/medium/tt0220099/img",
+      "background": "https://images.metahub.space/background/medium/tt0220099/img",
+      "posterShape": "poster",
+      "releaseInfo": "2000"
+    },
+    {
+      "id": "tt0256466",
+      "type": "movie",
+      "name": "The Ultimate Christmas Present",
+      "poster": "https://images.metahub.space/poster/medium/tt0256466/img",
+      "background": "https://images.metahub.space/background/medium/tt0256466/img",
+      "posterShape": "poster",
+      "releaseInfo": "2000"
+    }
+  ]
+}

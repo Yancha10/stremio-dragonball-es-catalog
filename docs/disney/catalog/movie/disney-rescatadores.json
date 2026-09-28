@@ -1,0 +1,22 @@
+{
+  "metas": [
+    {
+      "id": "tt0076618",
+      "type": "movie",
+      "name": "The Rescuers",
+      "poster": "https://images.metahub.space/poster/medium/tt0076618/img",
+      "background": "https://images.metahub.space/background/medium/tt0076618/img",
+      "posterShape": "poster",
+      "releaseInfo": "1977"
+    },
+    {
+      "id": "tt0100477",
+      "type": "movie",
+      "name": "The Rescuers Down Under",
+      "poster": "https://images.metahub.space/poster/medium/tt0100477/img",
+      "background": "https://images.metahub.space/background/medium/tt0100477/img",
+      "posterShape": "poster",
+      "releaseInfo": "1990"
+    }
+  ]
+}

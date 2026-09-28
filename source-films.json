@@ -1,0 +1,386 @@
+{
+  "pixar": [
+    {
+      "name": "Toy Story 5",
+      "year": 2026
+    },
+    {
+      "name": "Hoppers",
+      "year": 2026
+    },
+    {
+      "name": "Elio",
+      "year": 2025
+    },
+    {
+      "name": "Inside Out 2",
+      "year": 2024
+    },
+    {
+      "name": "Elemental",
+      "year": 2023
+    },
+    {
+      "name": "Lightyear",
+      "year": 2022
+    },
+    {
+      "name": "Turning Red",
+      "year": 2022
+    },
+    {
+      "name": "Luca",
+      "year": 2021
+    },
+    {
+      "name": "Soul",
+      "year": 2020
+    },
+    {
+      "name": "Onward",
+      "year": 2020
+    },
+    {
+      "name": "Toy Story 4",
+      "year": 2019
+    },
+    {
+      "name": "Incredibles 2",
+      "year": 2018
+    },
+    {
+      "name": "Coco",
+      "year": 2017
+    },
+    {
+      "name": "Cars 3",
+      "year": 2017
+    },
+    {
+      "name": "Finding Dory",
+      "year": 2016
+    },
+    {
+      "name": "The Good Dinosaur",
+      "year": 2015
+    },
+    {
+      "name": "Inside Out",
+      "year": 2015
+    },
+    {
+      "name": "Monster's University",
+      "year": 2013
+    },
+    {
+      "name": "Brave",
+      "year": 2012
+    },
+    {
+      "name": "Cars 2",
+      "year": 2011
+    },
+    {
+      "name": "Toy Story 3",
+      "year": 2010
+    },
+    {
+      "name": "Up",
+      "year": 2009
+    },
+    {
+      "name": "WALL-E",
+      "year": 2008
+    },
+    {
+      "name": "Ratatouille",
+      "year": 2007
+    },
+    {
+      "name": "Cars",
+      "year": 2006
+    },
+    {
+      "name": "The Incredibles",
+      "year": 2004
+    },
+    {
+      "name": "Finding Nemo",
+      "year": 2003
+    },
+    {
+      "name": "Monster's Inc.",
+      "year": 2001
+    },
+    {
+      "name": "Toy Story 2",
+      "year": 1999
+    },
+    {
+      "name": "A Bug's Life",
+      "year": 1998
+    },
+    {
+      "name": "Toy Story",
+      "year": 1995
+    }
+  ],
+  "disney": [
+    {
+      "name": "Zootopia 2",
+      "year": 2025
+    },
+    {
+      "name": "Moana 2",
+      "year": 2024
+    },
+    {
+      "name": "Wish",
+      "year": 2023
+    },
+    {
+      "name": "Strange World",
+      "year": 2022
+    },
+    {
+      "name": "Encanto",
+      "year": 2021
+    },
+    {
+      "name": "Raya and the Last Dragon",
+      "year": 2021
+    },
+    {
+      "name": "Frozen 2",
+      "year": 2019
+    },
+    {
+      "name": "Ralph Breaks the Internet",
+      "year": 2018
+    },
+    {
+      "name": "Moana",
+      "year": 2016
+    },
+    {
+      "name": "Zootopia",
+      "year": 2016
+    },
+    {
+      "name": "Big Hero 6",
+      "year": 2014
+    },
+    {
+      "name": "Frozen",
+      "year": 2013
+    },
+    {
+      "name": "Wreck-It Ralph",
+      "year": 2012
+    },
+    {
+      "name": "Winnie the Pooh",
+      "year": 2011
+    },
+    {
+      "name": "Tangled",
+      "year": 2010
+    },
+    {
+      "name": "The Princess and the Frog",
+      "year": 2009
+    },
+    {
+      "name": "Bolt",
+      "year": 2008
+    },
+    {
+      "name": "Meet the Robinsons",
+      "year": 2007
+    },
+    {
+      "name": "Chicken Little",
+      "year": 2005
+    },
+    {
+      "name": "Home on the Range",
+      "year": 2004
+    },
+    {
+      "name": "Brother Bear",
+      "year": 2003
+    },
+    {
+      "name": "Treasure Planet",
+      "year": 2002
+    },
+    {
+      "name": "Lilo & Stitch",
+      "year": 2002
+    },
+    {
+      "name": "Atlantis: The Lost Empire",
+      "year": 2001
+    },
+    {
+      "name": "The Emperor's New Groove",
+      "year": 2000
+    },
+    {
+      "name": "Dinosaur",
+      "year": 2000
+    },
+    {
+      "name": "Fantasia 2000",
+      "year": 2000
+    },
+    {
+      "name": "Tarzan",
+      "year": 1999
+    },
+    {
+      "name": "Mulan",
+      "year": 1998
+    },
+    {
+      "name": "Hercules",
+      "year": 1997
+    },
+    {
+      "name": "The Hunchback of Notre Dame",
+      "year": 1996
+    },
+    {
+      "name": "Pocahontas",
+      "year": 1995
+    },
+    {
+      "name": "The Lion King",
+      "year": 1994
+    },
+    {
+      "name": "Aladdin",
+      "year": 1992
+    },
+    {
+      "name": "Beauty and the Beast",
+      "year": 1991
+    },
+    {
+      "name": "The Rescuers Down Under",
+      "year": 1990
+    },
+    {
+      "name": "The Little Mermaid",
+      "year": 1989
+    },
+    {
+      "name": "Oliver & Company",
+      "year": 1988
+    },
+    {
+      "name": "The Great Mouse Detective",
+      "year": 1986
+    },
+    {
+      "name": "The Black Cauldron",
+      "year": 1985
+    },
+    {
+      "name": "The Fox and the Hound",
+      "year": 1981
+    },
+    {
+      "name": "The Rescuers",
+      "year": 1977
+    },
+    {
+      "name": "The Many Adventures of Winnie the Pooh",
+      "year": 1977
+    },
+    {
+      "name": "Robin Hood",
+      "year": 1973
+    },
+    {
+      "name": "The Aristocats",
+      "year": 1970
+    },
+    {
+      "name": "The Jungle Book",
+      "year": 1967
+    },
+    {
+      "name": "The Sword in the Stone",
+      "year": 1963
+    },
+    {
+      "name": "One Hundred and One Dalmatians",
+      "year": 1961
+    },
+    {
+      "name": "Sleeping Beauty",
+      "year": 1959
+    },
+    {
+      "name": "Lady and the Tramp",
+      "year": 1955
+    },
+    {
+      "name": "Peter Pan",
+      "year": 1953
+    },
+    {
+      "name": "Alice in Wonderland",
+      "year": 1951
+    },
+    {
+      "name": "Cinderella",
+      "year": 1950
+    },
+    {
+      "name": "The Adventures of Ichabod and Mr. Toad",
+      "year": 1949
+    },
+    {
+      "name": "Melody Time",
+      "year": 1948
+    },
+    {
+      "name": "Fun and Fancy Free",
+      "year": 1947
+    },
+    {
+      "name": "Make Mine Music",
+      "year": 1946
+    },
+    {
+      "name": "The Three Caballeros",
+      "year": 1945
+    },
+    {
+      "name": "Saludos Amigos",
+      "year": 1943
+    },
+    {
+      "name": "Bambi",
+      "year": 1942
+    },
+    {
+      "name": "Dumbo",
+      "year": 1941
+    },
+    {
+      "name": "Fantasia",
+      "year": 1940
+    },
+    {
+      "name": "Pinocchio",
+      "year": 1940
+    },
+    {
+      "name": "Snow White and the Seven Dwarfs",
+      "year": 1937
+    }
+  ]
+}

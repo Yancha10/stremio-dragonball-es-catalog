@@ -1,0 +1,193 @@
+{
+  "metas": [
+    {
+      "id": "tt0100477",
+      "type": "movie",
+      "name": "The Rescuers Down Under",
+      "poster": "https://images.metahub.space/poster/medium/tt0100477/img",
+      "background": "https://images.metahub.space/background/medium/tt0100477/img",
+      "posterShape": "poster",
+      "releaseInfo": "1990"
+    },
+    {
+      "id": "tt0101414",
+      "type": "movie",
+      "name": "Beauty and the Beast",
+      "poster": "https://images.metahub.space/poster/medium/tt0101414/img",
+      "background": "https://images.metahub.space/background/medium/tt0101414/img",
+      "posterShape": "poster",
+      "releaseInfo": "1991"
+    },
+    {
+      "id": "tt0103639",
+      "type": "movie",
+      "name": "Aladdin",
+      "poster": "https://images.metahub.space/poster/medium/tt0103639/img",
+      "background": "https://images.metahub.space/background/medium/tt0103639/img",
+      "posterShape": "poster",
+      "releaseInfo": "1992"
+    },
+    {
+      "id": "tt0110357",
+      "type": "movie",
+      "name": "The Lion King",
+      "poster": "https://images.metahub.space/poster/medium/tt0110357/img",
+      "background": "https://images.metahub.space/background/medium/tt0110357/img",
+      "posterShape": "poster",
+      "releaseInfo": "1994"
+    },
+    {
+      "id": "tt0114148",
+      "type": "movie",
+      "name": "Pocahontas",
+      "poster": "https://images.metahub.space/poster/medium/tt0114148/img",
+      "background": "https://images.metahub.space/background/medium/tt0114148/img",
+      "posterShape": "poster",
+      "releaseInfo": "1995"
+    },
+    {
+      "id": "tt0116583",
+      "type": "movie",
+      "name": "The Hunchback of Notre Dame",
+      "poster": "https://images.metahub.space/poster/medium/tt0116583/img",
+      "background": "https://images.metahub.space/background/medium/tt0116583/img",
+      "posterShape": "poster",
+      "releaseInfo": "1996"
+    },
+    {
+      "id": "tt0119282",
+      "type": "movie",
+      "name": "Hercules",
+      "poster": "https://images.metahub.space/poster/medium/tt0119282/img",
+      "background": "https://images.metahub.space/background/medium/tt0119282/img",
+      "posterShape": "poster",
+      "releaseInfo": "1997"
+    },
+    {
+      "id": "tt0120762",
+      "type": "movie",
+      "name": "Mulan",
+      "poster": "https://images.metahub.space/poster/medium/tt0120762/img",
+      "background": "https://images.metahub.space/background/medium/tt0120762/img",
+      "posterShape": "poster",
+      "releaseInfo": "1998"
+    },
+    {
+      "id": "tt0120855",
+      "type": "movie",
+      "name": "Tarzan",
+      "poster": "https://images.metahub.space/poster/medium/tt0120855/img",
+      "background": "https://images.metahub.space/background/medium/tt0120855/img",
+      "posterShape": "poster",
+      "releaseInfo": "1999"
+    },
+    {
+      "id": "tt0130623",
+      "type": "movie",
+      "name": "Dinosaur",
+      "poster": "https://images.metahub.space/poster/medium/tt0130623/img",
+      "background": "https://images.metahub.space/background/medium/tt0130623/img",
+      "posterShape": "poster",
+      "releaseInfo": "2000"
+    },
+    {
+      "id": "tt0120910",
+      "type": "movie",
+      "name": "Fantasia 2000",
+      "poster": "https://images.metahub.space/poster/medium/tt0120910/img",
+      "background": "https://images.metahub.space/background/medium/tt0120910/img",
+      "posterShape": "poster",
+      "releaseInfo": "2000"
+    },
+    {
+      "id": "tt0120917",
+      "type": "movie",
+      "name": "The Emperor's New Groove",
+      "poster": "https://images.metahub.space/poster/medium/tt0120917/img",
+      "background": "https://images.metahub.space/background/medium/tt0120917/img",
+      "posterShape": "poster",
+      "releaseInfo": "2000"
+    },
+    {
+      "id": "tt0230011",
+      "type": "movie",
+      "name": "Atlantis: The Lost Empire",
+      "poster": "https://images.metahub.space/poster/medium/tt0230011/img",
+      "background": "https://images.metahub.space/background/medium/tt0230011/img",
+      "posterShape": "poster",
+      "releaseInfo": "2001"
+    },
+    {
+      "id": "tt0275847",
+      "type": "movie",
+      "name": "Lilo & Stitch",
+      "poster": "https://images.metahub.space/poster/medium/tt0275847/img",
+      "background": "https://images.metahub.space/background/medium/tt0275847/img",
+      "posterShape": "poster",
+      "releaseInfo": "2002"
+    },
+    {
+      "id": "tt0133240",
+      "type": "movie",
+      "name": "Treasure Planet",
+      "poster": "https://images.metahub.space/poster/medium/tt0133240/img",
+      "background": "https://images.metahub.space/background/medium/tt0133240/img",
+      "posterShape": "poster",
+      "releaseInfo": "2002"
+    },
+    {
+      "id": "tt0328880",
+      "type": "movie",
+      "name": "Brother Bear",
+      "poster": "https://images.metahub.space/poster/medium/tt0328880/img",
+      "background": "https://images.metahub.space/background/medium/tt0328880/img",
+      "posterShape": "poster",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "tt0299172",
+      "type": "movie",
+      "name": "Home on the Range",
+      "poster": "https://images.metahub.space/poster/medium/tt0299172/img",
+      "background": "https://images.metahub.space/background/medium/tt0299172/img",
+      "posterShape": "poster",
+      "releaseInfo": "2004"
+    },
+    {
+      "id": "tt0371606",
+      "type": "movie",
+      "name": "Chicken Little",
+      "poster": "https://images.metahub.space/poster/medium/tt0371606/img",
+      "background": "https://images.metahub.space/background/medium/tt0371606/img",
+      "posterShape": "poster",
+      "releaseInfo": "2005"
+    },
+    {
+      "id": "tt0396555",
+      "type": "movie",
+      "name": "Meet the Robinsons",
+      "poster": "https://images.metahub.space/poster/medium/tt0396555/img",
+      "background": "https://images.metahub.space/background/medium/tt0396555/img",
+      "posterShape": "poster",
+      "releaseInfo": "2007"
+    },
+    {
+      "id": "tt0397892",
+      "type": "movie",
+      "name": "Bolt",
+      "poster": "https://images.metahub.space/poster/medium/tt0397892/img",
+      "background": "https://images.metahub.space/background/medium/tt0397892/img",
+      "posterShape": "poster",
+      "releaseInfo": "2008"
+    },
+    {
+      "id": "tt0780521",
+      "type": "movie",
+      "name": "The Princess and the Frog",
+      "poster": "https://images.metahub.space/poster/medium/tt0780521/img",
+      "background": "https://images.metahub.space/background/medium/tt0780521/img",
+      "posterShape": "poster",
+      "releaseInfo": "2009"
+    }
+  ]
+}

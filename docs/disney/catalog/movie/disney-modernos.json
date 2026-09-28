@@ -1,0 +1,139 @@
+{
+  "metas": [
+    {
+      "id": "tt0398286",
+      "type": "movie",
+      "name": "Tangled",
+      "poster": "https://images.metahub.space/poster/medium/tt0398286/img",
+      "background": "https://images.metahub.space/background/medium/tt0398286/img",
+      "posterShape": "poster",
+      "releaseInfo": "2010"
+    },
+    {
+      "id": "tt1449283",
+      "type": "movie",
+      "name": "Winnie the Pooh",
+      "poster": "https://images.metahub.space/poster/medium/tt1449283/img",
+      "background": "https://images.metahub.space/background/medium/tt1449283/img",
+      "posterShape": "poster",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt1772341",
+      "type": "movie",
+      "name": "Wreck-It Ralph",
+      "poster": "https://images.metahub.space/poster/medium/tt1772341/img",
+      "background": "https://images.metahub.space/background/medium/tt1772341/img",
+      "posterShape": "poster",
+      "releaseInfo": "2012"
+    },
+    {
+      "id": "tt2294629",
+      "type": "movie",
+      "name": "Frozen",
+      "poster": "https://images.metahub.space/poster/medium/tt2294629/img",
+      "background": "https://images.metahub.space/background/medium/tt2294629/img",
+      "posterShape": "poster",
+      "releaseInfo": "2013"
+    },
+    {
+      "id": "tt2245084",
+      "type": "movie",
+      "name": "Big Hero 6",
+      "poster": "https://images.metahub.space/poster/medium/tt2245084/img",
+      "background": "https://images.metahub.space/background/medium/tt2245084/img",
+      "posterShape": "poster",
+      "releaseInfo": "2014"
+    },
+    {
+      "id": "tt3521164",
+      "type": "movie",
+      "name": "Moana",
+      "poster": "https://images.metahub.space/poster/medium/tt3521164/img",
+      "background": "https://images.metahub.space/background/medium/tt3521164/img",
+      "posterShape": "poster",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt2948356",
+      "type": "movie",
+      "name": "Zootopia",
+      "poster": "https://images.metahub.space/poster/medium/tt2948356/img",
+      "background": "https://images.metahub.space/background/medium/tt2948356/img",
+      "posterShape": "poster",
+      "releaseInfo": "2016"
+    },
+    {
+      "id": "tt5848272",
+      "type": "movie",
+      "name": "Ralph Breaks the Internet",
+      "poster": "https://images.metahub.space/poster/medium/tt5848272/img",
+      "background": "https://images.metahub.space/background/medium/tt5848272/img",
+      "posterShape": "poster",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt4520988",
+      "type": "movie",
+      "name": "Frozen 2",
+      "poster": "https://images.metahub.space/poster/medium/tt4520988/img",
+      "background": "https://images.metahub.space/background/medium/tt4520988/img",
+      "posterShape": "poster",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt2953050",
+      "type": "movie",
+      "name": "Encanto",
+      "poster": "https://images.metahub.space/poster/medium/tt2953050/img",
+      "background": "https://images.metahub.space/background/medium/tt2953050/img",
+      "posterShape": "poster",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt5109280",
+      "type": "movie",
+      "name": "Raya and the Last Dragon",
+      "poster": "https://images.metahub.space/poster/medium/tt5109280/img",
+      "background": "https://images.metahub.space/background/medium/tt5109280/img",
+      "posterShape": "poster",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt10298840",
+      "type": "movie",
+      "name": "Strange World",
+      "poster": "https://images.metahub.space/poster/medium/tt10298840/img",
+      "background": "https://images.metahub.space/background/medium/tt10298840/img",
+      "posterShape": "poster",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt11304740",
+      "type": "movie",
+      "name": "Wish",
+      "poster": "https://images.metahub.space/poster/medium/tt11304740/img",
+      "background": "https://images.metahub.space/background/medium/tt11304740/img",
+      "posterShape": "poster",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt13622970",
+      "type": "movie",
+      "name": "Moana 2",
+      "poster": "https://images.metahub.space/poster/medium/tt13622970/img",
+      "background": "https://images.metahub.space/background/medium/tt13622970/img",
+      "posterShape": "poster",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt26443597",
+      "type": "movie",
+      "name": "Zootopia 2",
+      "poster": "https://images.metahub.space/poster/medium/tt26443597/img",
+      "background": "https://images.metahub.space/background/medium/tt26443597/img",
+      "posterShape": "poster",
+      "releaseInfo": "2025"
+    }
+  ]
+}

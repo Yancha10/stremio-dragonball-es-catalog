@@ -1,0 +1,433 @@
+[
+  {
+    "name": "Zootopia 2",
+    "year": 2025,
+    "imdb": "tt26443597",
+    "matchedName": "Zootopia 2"
+  },
+  {
+    "name": "Moana 2",
+    "year": 2024,
+    "imdb": "tt13622970",
+    "matchedName": "Moana 2"
+  },
+  {
+    "name": "Wish",
+    "year": 2023,
+    "imdb": "tt11304740",
+    "matchedName": "Wish"
+  },
+  {
+    "name": "Strange World",
+    "year": 2022,
+    "imdb": "tt10298840",
+    "matchedName": "Strange World"
+  },
+  {
+    "name": "Encanto",
+    "year": 2021,
+    "imdb": "tt2953050",
+    "matchedName": "Encanto"
+  },
+  {
+    "name": "Raya and the Last Dragon",
+    "year": 2021,
+    "imdb": "tt5109280",
+    "matchedName": "Raya and the Last Dragon"
+  },
+  {
+    "name": "Frozen 2",
+    "year": 2019,
+    "error": "not found",
+    "candidates": [
+      [
+        "Frozen II",
+        "2019",
+        "tt4520988"
+      ],
+      [
+        "Frozen 2: Sing-Along",
+        "2022",
+        "tt35929603"
+      ],
+      [
+        "Frozen Stupid 2: Open Water",
+        "2020",
+        "tt12325106"
+      ],
+      [
+        "A Frozen Christmas 2",
+        "2017",
+        "tt7476494"
+      ],
+      [
+        "A Frozen New Years 2",
+        "2021",
+        "tt15422384"
+      ],
+      [
+        "A Frozen Christmas Time 2",
+        "2020",
+        "tt13452404"
+      ]
+    ],
+    "imdb": "tt4520988",
+    "matchedName": "Frozen II"
+  },
+  {
+    "name": "Ralph Breaks the Internet",
+    "year": 2018,
+    "imdb": "tt5848272",
+    "matchedName": "Ralph Breaks the Internet"
+  },
+  {
+    "name": "Moana",
+    "year": 2016,
+    "imdb": "tt3521164",
+    "matchedName": "Moana"
+  },
+  {
+    "name": "Zootopia",
+    "year": 2016,
+    "imdb": "tt2948356",
+    "matchedName": "Zootopia"
+  },
+  {
+    "name": "Big Hero 6",
+    "year": 2014,
+    "imdb": "tt2245084",
+    "matchedName": "Big Hero 6"
+  },
+  {
+    "name": "Frozen",
+    "year": 2013,
+    "imdb": "tt2294629",
+    "matchedName": "Frozen"
+  },
+  {
+    "name": "Wreck-It Ralph",
+    "year": 2012,
+    "imdb": "tt1772341",
+    "matchedName": "Wreck-It Ralph"
+  },
+  {
+    "name": "Winnie the Pooh",
+    "year": 2011,
+    "imdb": "tt1449283",
+    "matchedName": "Winnie the Pooh"
+  },
+  {
+    "name": "Tangled",
+    "year": 2010,
+    "imdb": "tt0398286",
+    "matchedName": "Tangled"
+  },
+  {
+    "name": "The Princess and the Frog",
+    "year": 2009,
+    "imdb": "tt0780521",
+    "matchedName": "The Princess and the Frog"
+  },
+  {
+    "name": "Bolt",
+    "year": 2008,
+    "imdb": "tt0397892",
+    "matchedName": "Bolt"
+  },
+  {
+    "name": "Meet the Robinsons",
+    "year": 2007,
+    "imdb": "tt0396555",
+    "matchedName": "Meet the Robinsons",
+    "resolution": "Wikidata title, studio and year verified"
+  },
+  {
+    "name": "Chicken Little",
+    "year": 2005,
+    "imdb": "tt0371606",
+    "matchedName": "Chicken Little"
+  },
+  {
+    "name": "Home on the Range",
+    "year": 2004,
+    "error": "HTTP Error 504: Gateway Timeout",
+    "imdb": "tt0299172",
+    "matchedName": "Home on the Range"
+  },
+  {
+    "name": "Brother Bear",
+    "year": 2003,
+    "imdb": "tt0328880",
+    "matchedName": "Brother Bear"
+  },
+  {
+    "name": "Treasure Planet",
+    "year": 2002,
+    "imdb": "tt0133240",
+    "matchedName": "Treasure Planet",
+    "resolution": "Wikidata title, studio and year verified"
+  },
+  {
+    "name": "Lilo & Stitch",
+    "year": 2002,
+    "imdb": "tt0275847",
+    "matchedName": "Lilo & Stitch"
+  },
+  {
+    "name": "Atlantis: The Lost Empire",
+    "year": 2001,
+    "imdb": "tt0230011",
+    "matchedName": "Atlantis: The Lost Empire"
+  },
+  {
+    "name": "The Emperor's New Groove",
+    "year": 2000,
+    "imdb": "tt0120917",
+    "matchedName": "The Emperor's New Groove",
+    "resolution": "Wikidata title, studio and year verified"
+  },
+  {
+    "name": "Dinosaur",
+    "year": 2000,
+    "imdb": "tt0130623",
+    "matchedName": "Dinosaur"
+  },
+  {
+    "name": "Fantasia 2000",
+    "year": 2000,
+    "imdb": "tt0120910",
+    "matchedName": "Fantasia 2000",
+    "resolution": "Wikidata title, studio and year verified"
+  },
+  {
+    "name": "Tarzan",
+    "year": 1999,
+    "imdb": "tt0120855",
+    "matchedName": "Tarzan"
+  },
+  {
+    "name": "Mulan",
+    "year": 1998,
+    "imdb": "tt0120762",
+    "matchedName": "Mulan"
+  },
+  {
+    "name": "Hercules",
+    "year": 1997,
+    "imdb": "tt0119282",
+    "matchedName": "Hercules"
+  },
+  {
+    "name": "The Hunchback of Notre Dame",
+    "year": 1996,
+    "imdb": "tt0116583",
+    "matchedName": "The Hunchback of Notre Dame"
+  },
+  {
+    "name": "Pocahontas",
+    "year": 1995,
+    "imdb": "tt0114148",
+    "matchedName": "Pocahontas"
+  },
+  {
+    "name": "The Lion King",
+    "year": 1994,
+    "imdb": "tt0110357",
+    "matchedName": "The Lion King"
+  },
+  {
+    "name": "Aladdin",
+    "year": 1992,
+    "imdb": "tt0103639",
+    "matchedName": "Aladdin"
+  },
+  {
+    "name": "Beauty and the Beast",
+    "year": 1991,
+    "imdb": "tt0101414",
+    "matchedName": "Beauty and the Beast"
+  },
+  {
+    "name": "The Rescuers Down Under",
+    "year": 1990,
+    "imdb": "tt0100477",
+    "matchedName": "The Rescuers Down Under"
+  },
+  {
+    "name": "The Little Mermaid",
+    "year": 1989,
+    "imdb": "tt0097757",
+    "matchedName": "The Little Mermaid"
+  },
+  {
+    "name": "Oliver & Company",
+    "year": 1988,
+    "imdb": "tt0095776",
+    "matchedName": "Oliver & Company"
+  },
+  {
+    "name": "The Great Mouse Detective",
+    "year": 1986,
+    "imdb": "tt0091149",
+    "matchedName": "The Great Mouse Detective"
+  },
+  {
+    "name": "The Black Cauldron",
+    "year": 1985,
+    "imdb": "tt0088814",
+    "matchedName": "The Black Cauldron"
+  },
+  {
+    "name": "The Fox and the Hound",
+    "year": 1981,
+    "imdb": "tt0082406",
+    "matchedName": "The Fox and the Hound"
+  },
+  {
+    "name": "The Rescuers",
+    "year": 1977,
+    "imdb": "tt0076618",
+    "matchedName": "The Rescuers"
+  },
+  {
+    "name": "The Many Adventures of Winnie the Pooh",
+    "year": 1977,
+    "error": "HTTP Error 504: Gateway Timeout",
+    "imdb": "tt0076363",
+    "matchedName": "The Many Adventures of Winnie the Pooh"
+  },
+  {
+    "name": "Robin Hood",
+    "year": 1973,
+    "imdb": "tt0070608",
+    "matchedName": "Robin Hood"
+  },
+  {
+    "name": "The Aristocats",
+    "year": 1970,
+    "imdb": "tt0065421",
+    "matchedName": "The Aristocats"
+  },
+  {
+    "name": "The Jungle Book",
+    "year": 1967,
+    "imdb": "tt0061852",
+    "matchedName": "The Jungle Book"
+  },
+  {
+    "name": "The Sword in the Stone",
+    "year": 1963,
+    "imdb": "tt0057546",
+    "matchedName": "The Sword in the Stone",
+    "resolution": "Wikidata title, studio and year verified"
+  },
+  {
+    "name": "One Hundred and One Dalmatians",
+    "year": 1961,
+    "imdb": "tt0055254",
+    "matchedName": "One Hundred and One Dalmatians"
+  },
+  {
+    "name": "Sleeping Beauty",
+    "year": 1959,
+    "imdb": "tt0053285",
+    "matchedName": "Sleeping Beauty",
+    "resolution": "Wikidata title, studio and year verified"
+  },
+  {
+    "name": "Lady and the Tramp",
+    "year": 1955,
+    "imdb": "tt0048280",
+    "matchedName": "Lady and the Tramp"
+  },
+  {
+    "name": "Peter Pan",
+    "year": 1953,
+    "imdb": "tt0046183",
+    "matchedName": "Peter Pan"
+  },
+  {
+    "name": "Alice in Wonderland",
+    "year": 1951,
+    "imdb": "tt0043274",
+    "matchedName": "Alice in Wonderland"
+  },
+  {
+    "name": "Cinderella",
+    "year": 1950,
+    "imdb": "tt0042332",
+    "matchedName": "Cinderella"
+  },
+  {
+    "name": "The Adventures of Ichabod and Mr. Toad",
+    "year": 1949,
+    "imdb": "tt0041094",
+    "matchedName": "The Adventures of Ichabod and Mr. Toad",
+    "resolution": "Wikidata title, studio and year verified"
+  },
+  {
+    "name": "Melody Time",
+    "year": 1948,
+    "imdb": "tt0040580",
+    "matchedName": "Melody Time",
+    "resolution": "Wikidata title, studio and year verified"
+  },
+  {
+    "name": "Fun and Fancy Free",
+    "year": 1947,
+    "imdb": "tt0039404",
+    "matchedName": "Fun and Fancy Free",
+    "resolution": "Wikidata title, studio and year verified"
+  },
+  {
+    "name": "Make Mine Music",
+    "year": 1946,
+    "imdb": "tt0038718",
+    "matchedName": "Make Mine Music",
+    "resolution": "Wikidata title, studio and year verified"
+  },
+  {
+    "name": "The Three Caballeros",
+    "year": 1945,
+    "imdb": "tt0038166",
+    "matchedName": "The Three Caballeros",
+    "resolution": "Wikidata title, studio and year verified"
+  },
+  {
+    "name": "Saludos Amigos",
+    "year": 1943,
+    "imdb": "tt0036326",
+    "matchedName": "Saludos Amigos",
+    "resolution": "Wikidata title, studio and year verified"
+  },
+  {
+    "name": "Bambi",
+    "year": 1942,
+    "imdb": "tt0034492",
+    "matchedName": "Bambi"
+  },
+  {
+    "name": "Dumbo",
+    "year": 1941,
+    "imdb": "tt0033563",
+    "matchedName": "Dumbo"
+  },
+  {
+    "name": "Fantasia",
+    "year": 1940,
+    "imdb": "tt0032455",
+    "matchedName": "Fantasia"
+  },
+  {
+    "name": "Pinocchio",
+    "year": 1940,
+    "imdb": "tt0032910",
+    "matchedName": "Pinocchio"
+  },
+  {
+    "name": "Snow White and the Seven Dwarfs",
+    "year": 1937,
+    "imdb": "tt0029583",
+    "matchedName": "Snow White and the Seven Dwarfs"
+  }
+]

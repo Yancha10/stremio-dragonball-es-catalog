@@ -1,0 +1,580 @@
+{
+  "metas": [
+    {
+      "id": "tt5848272",
+      "type": "movie",
+      "name": "Ralph Breaks the Internet",
+      "poster": "https://images.metahub.space/poster/medium/tt5848272/img",
+      "background": "https://images.metahub.space/background/medium/tt5848272/img",
+      "posterShape": "poster",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt5523010",
+      "type": "movie",
+      "name": "The Nutcracker and the Four Realms",
+      "poster": "https://images.metahub.space/poster/medium/tt5523010/img",
+      "background": "https://images.metahub.space/background/medium/tt5523010/img",
+      "posterShape": "poster",
+      "releaseInfo": "2018"
+    },
+    {
+      "id": "tt6139732",
+      "type": "movie",
+      "name": "Aladdin",
+      "poster": "https://images.metahub.space/poster/medium/tt6139732/img",
+      "background": "https://images.metahub.space/background/medium/tt6139732/img",
+      "posterShape": "poster",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt3861390",
+      "type": "movie",
+      "name": "Dumbo",
+      "poster": "https://images.metahub.space/poster/medium/tt3861390/img",
+      "background": "https://images.metahub.space/background/medium/tt3861390/img",
+      "posterShape": "poster",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt4520988",
+      "type": "movie",
+      "name": "Frozen 2",
+      "poster": "https://images.metahub.space/poster/medium/tt4520988/img",
+      "background": "https://images.metahub.space/background/medium/tt4520988/img",
+      "posterShape": "poster",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt8096832",
+      "type": "movie",
+      "name": "Lady and the Tramp",
+      "poster": "https://images.metahub.space/poster/medium/tt8096832/img",
+      "background": "https://images.metahub.space/background/medium/tt8096832/img",
+      "posterShape": "poster",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt4777008",
+      "type": "movie",
+      "name": "Maleficent: Mistress of Evil",
+      "poster": "https://images.metahub.space/poster/medium/tt4777008/img",
+      "background": "https://images.metahub.space/background/medium/tt4777008/img",
+      "posterShape": "poster",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt5097410",
+      "type": "movie",
+      "name": "Noelle",
+      "poster": "https://images.metahub.space/poster/medium/tt5097410/img",
+      "background": "https://images.metahub.space/background/medium/tt5097410/img",
+      "posterShape": "poster",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt6105098",
+      "type": "movie",
+      "name": "The Lion King",
+      "poster": "https://images.metahub.space/poster/medium/tt6105098/img",
+      "background": "https://images.metahub.space/background/medium/tt6105098/img",
+      "posterShape": "poster",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt5116302",
+      "type": "movie",
+      "name": "Togo",
+      "poster": "https://images.metahub.space/poster/medium/tt5116302/img",
+      "background": "https://images.metahub.space/background/medium/tt5116302/img",
+      "posterShape": "poster",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt1979376",
+      "type": "movie",
+      "name": "Toy Story 4",
+      "poster": "https://images.metahub.space/poster/medium/tt1979376/img",
+      "background": "https://images.metahub.space/background/medium/tt1979376/img",
+      "posterShape": "poster",
+      "releaseInfo": "2019"
+    },
+    {
+      "id": "tt3089630",
+      "type": "movie",
+      "name": "Artemis Fowl",
+      "poster": "https://images.metahub.space/poster/medium/tt3089630/img",
+      "background": "https://images.metahub.space/background/medium/tt3089630/img",
+      "posterShape": "poster",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt8484160",
+      "type": "movie",
+      "name": "Black Beauty",
+      "poster": "https://images.metahub.space/poster/medium/tt8484160/img",
+      "background": "https://images.metahub.space/background/medium/tt8484160/img",
+      "posterShape": "poster",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt12607910",
+      "type": "movie",
+      "name": "Black Is King",
+      "poster": "https://images.metahub.space/poster/medium/tt12607910/img",
+      "background": "https://images.metahub.space/background/medium/tt12607910/img",
+      "posterShape": "poster",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt11681250",
+      "type": "movie",
+      "name": "Godmothered",
+      "poster": "https://images.metahub.space/poster/medium/tt11681250/img",
+      "background": "https://images.metahub.space/background/medium/tt11681250/img",
+      "posterShape": "poster",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt3979300",
+      "type": "movie",
+      "name": "Magic Camp",
+      "poster": "https://images.metahub.space/poster/medium/tt3979300/img",
+      "background": "https://images.metahub.space/background/medium/tt3979300/img",
+      "posterShape": "poster",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt4566758",
+      "type": "movie",
+      "name": "Mulan",
+      "poster": "https://images.metahub.space/poster/medium/tt4566758/img",
+      "background": "https://images.metahub.space/background/medium/tt4566758/img",
+      "posterShape": "poster",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt7146812",
+      "type": "movie",
+      "name": "Onward",
+      "poster": "https://images.metahub.space/poster/medium/tt7146812/img",
+      "background": "https://images.metahub.space/background/medium/tt7146812/img",
+      "posterShape": "poster",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt2948372",
+      "type": "movie",
+      "name": "Soul",
+      "poster": "https://images.metahub.space/poster/medium/tt2948372/img",
+      "background": "https://images.metahub.space/background/medium/tt2948372/img",
+      "posterShape": "poster",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt13606158",
+      "type": "movie",
+      "name": "The Last Warrior: Root of Evil",
+      "poster": "https://images.metahub.space/poster/medium/tt13606158/img",
+      "background": "https://images.metahub.space/background/medium/tt13606158/img",
+      "posterShape": "poster",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt3661394",
+      "type": "movie",
+      "name": "The One and Only Ivan",
+      "poster": "https://images.metahub.space/poster/medium/tt3661394/img",
+      "background": "https://images.metahub.space/background/medium/tt3661394/img",
+      "posterShape": "poster",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt6820324",
+      "type": "movie",
+      "name": "Timmy Failure: Mistakes Were Made",
+      "poster": "https://images.metahub.space/poster/medium/tt6820324/img",
+      "background": "https://images.metahub.space/background/medium/tt6820324/img",
+      "posterShape": "poster",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt3228774",
+      "type": "movie",
+      "name": "Cruella",
+      "poster": "https://images.metahub.space/poster/medium/tt3228774/img",
+      "background": "https://images.metahub.space/background/medium/tt3228774/img",
+      "posterShape": "poster",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt13834480",
+      "type": "movie",
+      "name": "Diary of a Wimpy Kid",
+      "poster": "https://images.metahub.space/poster/medium/tt13834480/img",
+      "background": "https://images.metahub.space/background/medium/tt13834480/img",
+      "posterShape": "poster",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt2953050",
+      "type": "movie",
+      "name": "Encanto",
+      "poster": "https://images.metahub.space/poster/medium/tt2953050/img",
+      "background": "https://images.metahub.space/background/medium/tt2953050/img",
+      "posterShape": "poster",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt0870154",
+      "type": "movie",
+      "name": "Jungle Cruise",
+      "poster": "https://images.metahub.space/poster/medium/tt0870154/img",
+      "background": "https://images.metahub.space/background/medium/tt0870154/img",
+      "posterShape": "poster",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt12801262",
+      "type": "movie",
+      "name": "Luca",
+      "poster": "https://images.metahub.space/poster/medium/tt12801262/img",
+      "background": "https://images.metahub.space/background/medium/tt12801262/img",
+      "posterShape": "poster",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt5109280",
+      "type": "movie",
+      "name": "Raya and the Last Dragon",
+      "poster": "https://images.metahub.space/poster/medium/tt5109280/img",
+      "background": "https://images.metahub.space/background/medium/tt5109280/img",
+      "posterShape": "poster",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt13769630",
+      "type": "movie",
+      "name": "The Last Warrior 3",
+      "poster": "https://images.metahub.space/poster/medium/tt13769630/img",
+      "background": "https://images.metahub.space/background/medium/tt13769630/img",
+      "posterShape": "poster",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt14062858",
+      "type": "movie",
+      "name": "Us Again",
+      "poster": "https://images.metahub.space/poster/medium/tt14062858/img",
+      "background": "https://images.metahub.space/background/medium/tt14062858/img",
+      "posterShape": "poster",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt14696284",
+      "type": "movie",
+      "name": "Better Nate Than Ever",
+      "poster": "https://images.metahub.space/poster/medium/tt14696284/img",
+      "background": "https://images.metahub.space/background/medium/tt14696284/img",
+      "posterShape": "poster",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt15847828",
+      "type": "movie",
+      "name": "Diary of a Wimpy Kid: Rodrick Rules",
+      "poster": "https://images.metahub.space/poster/medium/tt15847828/img",
+      "background": "https://images.metahub.space/background/medium/tt15847828/img",
+      "posterShape": "poster",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt1596342",
+      "type": "movie",
+      "name": "Disenchanted",
+      "poster": "https://images.metahub.space/poster/medium/tt1596342/img",
+      "background": "https://images.metahub.space/background/medium/tt1596342/img",
+      "posterShape": "poster",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt14109994",
+      "type": "movie",
+      "name": "Hollywood Stargirl",
+      "poster": "https://images.metahub.space/poster/medium/tt14109994/img",
+      "background": "https://images.metahub.space/background/medium/tt14109994/img",
+      "posterShape": "poster",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt10298810",
+      "type": "movie",
+      "name": "Lightyear",
+      "poster": "https://images.metahub.space/poster/medium/tt10298810/img",
+      "background": "https://images.metahub.space/background/medium/tt10298810/img",
+      "posterShape": "poster",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt13623880",
+      "type": "movie",
+      "name": "Night at the Museum: Kahmunrah Rises Again",
+      "poster": "https://images.metahub.space/poster/medium/tt13623880/img",
+      "background": "https://images.metahub.space/background/medium/tt13623880/img",
+      "posterShape": "poster",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt4593060",
+      "type": "movie",
+      "name": "Pinocchio",
+      "poster": "https://images.metahub.space/poster/medium/tt4593060/img",
+      "background": "https://images.metahub.space/background/medium/tt4593060/img",
+      "posterShape": "poster",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt11242162",
+      "type": "movie",
+      "name": "Rise",
+      "poster": "https://images.metahub.space/poster/medium/tt11242162/img",
+      "background": "https://images.metahub.space/background/medium/tt11242162/img",
+      "posterShape": "poster",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt10298840",
+      "type": "movie",
+      "name": "Strange World",
+      "poster": "https://images.metahub.space/poster/medium/tt10298840/img",
+      "background": "https://images.metahub.space/background/medium/tt10298840/img",
+      "posterShape": "poster",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt13634480",
+      "type": "movie",
+      "name": "The Ice Age Adventures of Buck Wild",
+      "poster": "https://images.metahub.space/poster/medium/tt13634480/img",
+      "background": "https://images.metahub.space/background/medium/tt13634480/img",
+      "posterShape": "poster",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt8097030",
+      "type": "movie",
+      "name": "Turning Red",
+      "poster": "https://images.metahub.space/poster/medium/tt8097030/img",
+      "background": "https://images.metahub.space/background/medium/tt8097030/img",
+      "posterShape": "poster",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt13650494",
+      "type": "movie",
+      "name": "Chang Can Dunk",
+      "poster": "https://images.metahub.space/poster/medium/tt13650494/img",
+      "background": "https://images.metahub.space/background/medium/tt13650494/img",
+      "posterShape": "poster",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt5264838",
+      "type": "movie",
+      "name": "Crater",
+      "poster": "https://images.metahub.space/poster/medium/tt5264838/img",
+      "background": "https://images.metahub.space/background/medium/tt5264838/img",
+      "posterShape": "poster",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt5608166",
+      "type": "movie",
+      "name": "Dashing Through the Snow",
+      "poster": "https://images.metahub.space/poster/medium/tt5608166/img",
+      "background": "https://images.metahub.space/background/medium/tt5608166/img",
+      "posterShape": "poster",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt29033964",
+      "type": "movie",
+      "name": "Diary of a Wimpy Kid Christmas: Cabin Fever",
+      "poster": "https://images.metahub.space/poster/medium/tt29033964/img",
+      "background": "https://images.metahub.space/background/medium/tt29033964/img",
+      "posterShape": "poster",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt15789038",
+      "type": "movie",
+      "name": "Elemental",
+      "poster": "https://images.metahub.space/poster/medium/tt15789038/img",
+      "background": "https://images.metahub.space/background/medium/tt15789038/img",
+      "posterShape": "poster",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt1695843",
+      "type": "movie",
+      "name": "Haunted Mansion",
+      "poster": "https://images.metahub.space/poster/medium/tt1695843/img",
+      "background": "https://images.metahub.space/background/medium/tt1695843/img",
+      "posterShape": "poster",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt28035641",
+      "type": "movie",
+      "name": "Once Upon a Studio",
+      "poster": "https://images.metahub.space/poster/medium/tt28035641/img",
+      "background": "https://images.metahub.space/background/medium/tt28035641/img",
+      "posterShape": "poster",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt5971474",
+      "type": "movie",
+      "name": "The Little Mermaid",
+      "poster": "https://images.metahub.space/poster/medium/tt5971474/img",
+      "background": "https://images.metahub.space/background/medium/tt5971474/img",
+      "posterShape": "poster",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt11304740",
+      "type": "movie",
+      "name": "Wish",
+      "poster": "https://images.metahub.space/poster/medium/tt11304740/img",
+      "background": "https://images.metahub.space/background/medium/tt11304740/img",
+      "posterShape": "poster",
+      "releaseInfo": "2023"
+    },
+    {
+      "id": "tt22022452",
+      "type": "movie",
+      "name": "Inside Out 2",
+      "poster": "https://images.metahub.space/poster/medium/tt22022452/img",
+      "background": "https://images.metahub.space/background/medium/tt22022452/img",
+      "posterShape": "poster",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt13622970",
+      "type": "movie",
+      "name": "Moana 2",
+      "poster": "https://images.metahub.space/poster/medium/tt13622970/img",
+      "background": "https://images.metahub.space/background/medium/tt13622970/img",
+      "posterShape": "poster",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt13186482",
+      "type": "movie",
+      "name": "Mufasa: The Lion King",
+      "poster": "https://images.metahub.space/poster/medium/tt13186482/img",
+      "background": "https://images.metahub.space/background/medium/tt13186482/img",
+      "posterShape": "poster",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt5177114",
+      "type": "movie",
+      "name": "Young Woman and the Sea",
+      "poster": "https://images.metahub.space/poster/medium/tt5177114/img",
+      "background": "https://images.metahub.space/background/medium/tt5177114/img",
+      "posterShape": "poster",
+      "releaseInfo": "2024"
+    },
+    {
+      "id": "tt13782222",
+      "type": "movie",
+      "name": "Alexander and the Terrible, Horrible, No Good, Very Bad Road Trip",
+      "poster": "https://images.metahub.space/poster/medium/tt13782222/img",
+      "background": "https://images.metahub.space/background/medium/tt13782222/img",
+      "posterShape": "poster",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt4900148",
+      "type": "movie",
+      "name": "Elio",
+      "poster": "https://images.metahub.space/poster/medium/tt4900148/img",
+      "background": "https://images.metahub.space/background/medium/tt4900148/img",
+      "posterShape": "poster",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt31956415",
+      "type": "movie",
+      "name": "Freakier Friday",
+      "poster": "https://images.metahub.space/poster/medium/tt31956415/img",
+      "background": "https://images.metahub.space/background/medium/tt31956415/img",
+      "posterShape": "poster",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt11655566",
+      "type": "movie",
+      "name": "Lilo & Stitch",
+      "poster": "https://images.metahub.space/poster/medium/tt11655566/img",
+      "background": "https://images.metahub.space/background/medium/tt11655566/img",
+      "posterShape": "poster",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt6208148",
+      "type": "movie",
+      "name": "Snow White",
+      "poster": "https://images.metahub.space/poster/medium/tt6208148/img",
+      "background": "https://images.metahub.space/background/medium/tt6208148/img",
+      "posterShape": "poster",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt6604188",
+      "type": "movie",
+      "name": "Tron: Ares",
+      "poster": "https://images.metahub.space/poster/medium/tt6604188/img",
+      "background": "https://images.metahub.space/background/medium/tt6604188/img",
+      "posterShape": "poster",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt26443597",
+      "type": "movie",
+      "name": "Zootopia 2",
+      "poster": "https://images.metahub.space/poster/medium/tt26443597/img",
+      "background": "https://images.metahub.space/background/medium/tt26443597/img",
+      "posterShape": "poster",
+      "releaseInfo": "2025"
+    },
+    {
+      "id": "tt26443616",
+      "type": "movie",
+      "name": "Hoppers",
+      "poster": "https://images.metahub.space/poster/medium/tt26443616/img",
+      "background": "https://images.metahub.space/background/medium/tt26443616/img",
+      "posterShape": "poster",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt27419466",
+      "type": "movie",
+      "name": "Moana",
+      "poster": "https://images.metahub.space/poster/medium/tt27419466/img",
+      "background": "https://images.metahub.space/background/medium/tt27419466/img",
+      "posterShape": "poster",
+      "releaseInfo": "2026"
+    },
+    {
+      "id": "tt29355505",
+      "type": "movie",
+      "name": "Toy Story 5",
+      "poster": "https://images.metahub.space/poster/medium/tt29355505/img",
+      "background": "https://images.metahub.space/background/medium/tt29355505/img",
+      "posterShape": "poster",
+      "releaseInfo": "2026"
+    }
+  ]
+}

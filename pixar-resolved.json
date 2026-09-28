@@ -1,0 +1,196 @@
+[
+  {
+    "name": "Toy Story 5",
+    "year": 2026,
+    "imdb": "tt29355505",
+    "matchedName": "Toy Story 5"
+  },
+  {
+    "name": "Hoppers",
+    "year": 2026,
+    "imdb": "tt26443616",
+    "matchedName": "Hoppers"
+  },
+  {
+    "name": "Elio",
+    "year": 2025,
+    "error": "HTTP Error 504: Gateway Timeout",
+    "imdb": "tt4900148",
+    "matchedName": "Elio"
+  },
+  {
+    "name": "Inside Out 2",
+    "year": 2024,
+    "imdb": "tt22022452",
+    "matchedName": "Inside Out 2"
+  },
+  {
+    "name": "Elemental",
+    "year": 2023,
+    "imdb": "tt15789038",
+    "matchedName": "Elemental"
+  },
+  {
+    "name": "Lightyear",
+    "year": 2022,
+    "error": "HTTP Error 504: Gateway Timeout",
+    "imdb": "tt10298810",
+    "matchedName": "Lightyear"
+  },
+  {
+    "name": "Turning Red",
+    "year": 2022,
+    "imdb": "tt8097030",
+    "matchedName": "Turning Red"
+  },
+  {
+    "name": "Luca",
+    "year": 2021,
+    "imdb": "tt12801262",
+    "matchedName": "Luca",
+    "resolution": "Wikidata title, studio and year verified"
+  },
+  {
+    "name": "Soul",
+    "year": 2020,
+    "error": "HTTP Error 504: Gateway Timeout",
+    "imdb": "tt2948372",
+    "matchedName": "Soul"
+  },
+  {
+    "name": "Onward",
+    "year": 2020,
+    "imdb": "tt7146812",
+    "matchedName": "Onward",
+    "resolution": "Wikidata title, studio and year verified"
+  },
+  {
+    "name": "Toy Story 4",
+    "year": 2019,
+    "imdb": "tt1979376",
+    "matchedName": "Toy Story 4",
+    "resolution": "Wikidata title, studio and year verified"
+  },
+  {
+    "name": "Incredibles 2",
+    "year": 2018,
+    "imdb": "tt3606756",
+    "matchedName": "Incredibles 2"
+  },
+  {
+    "name": "Coco",
+    "year": 2017,
+    "imdb": "tt2380307",
+    "matchedName": "Coco"
+  },
+  {
+    "name": "Cars 3",
+    "year": 2017,
+    "imdb": "tt3606752",
+    "matchedName": "Cars 3"
+  },
+  {
+    "name": "Finding Dory",
+    "year": 2016,
+    "imdb": "tt2277860",
+    "matchedName": "Finding Dory"
+  },
+  {
+    "name": "The Good Dinosaur",
+    "year": 2015,
+    "imdb": "tt1979388",
+    "matchedName": "The Good Dinosaur"
+  },
+  {
+    "name": "Inside Out",
+    "year": 2015,
+    "imdb": "tt2096673",
+    "matchedName": "Inside Out"
+  },
+  {
+    "name": "Monster's University",
+    "year": 2013,
+    "imdb": "tt1453405",
+    "matchedName": "Monsters University"
+  },
+  {
+    "name": "Brave",
+    "year": 2012,
+    "imdb": "tt1217209",
+    "matchedName": "Brave",
+    "resolution": "Wikidata title, studio and year verified"
+  },
+  {
+    "name": "Cars 2",
+    "year": 2011,
+    "imdb": "tt1216475",
+    "matchedName": "Cars 2"
+  },
+  {
+    "name": "Toy Story 3",
+    "year": 2010,
+    "imdb": "tt0435761",
+    "matchedName": "Toy Story 3"
+  },
+  {
+    "name": "Up",
+    "year": 2009,
+    "imdb": "tt1049413",
+    "matchedName": "Up"
+  },
+  {
+    "name": "WALL-E",
+    "year": 2008,
+    "imdb": "tt0910970",
+    "matchedName": "WALL·E"
+  },
+  {
+    "name": "Ratatouille",
+    "year": 2007,
+    "imdb": "tt0382932",
+    "matchedName": "Ratatouille"
+  },
+  {
+    "name": "Cars",
+    "year": 2006,
+    "imdb": "tt0317219",
+    "matchedName": "Cars"
+  },
+  {
+    "name": "The Incredibles",
+    "year": 2004,
+    "imdb": "tt0317705",
+    "matchedName": "The Incredibles"
+  },
+  {
+    "name": "Finding Nemo",
+    "year": 2003,
+    "imdb": "tt0266543",
+    "matchedName": "Finding Nemo"
+  },
+  {
+    "name": "Monster's Inc.",
+    "year": 2001,
+    "imdb": "tt0198781",
+    "matchedName": "Monsters, Inc."
+  },
+  {
+    "name": "Toy Story 2",
+    "year": 1999,
+    "imdb": "tt0120363",
+    "matchedName": "Toy Story 2"
+  },
+  {
+    "name": "A Bug's Life",
+    "year": 1998,
+    "imdb": "tt0120623",
+    "matchedName": "A Bug's Life",
+    "resolution": "Wikidata title, studio and year verified"
+  },
+  {
+    "name": "Toy Story",
+    "year": 1995,
+    "imdb": "tt0114709",
+    "matchedName": "Toy Story"
+  }
+]
