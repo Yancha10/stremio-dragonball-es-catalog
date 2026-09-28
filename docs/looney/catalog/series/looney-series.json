@@ -1,0 +1,94 @@
+{
+  "metas": [
+    {
+      "id": "tt0053488",
+      "type": "series",
+      "name": "The Bugs Bunny Show",
+      "poster": "https://images.metahub.space/poster/medium/tt0053488/img",
+      "background": "https://images.metahub.space/background/medium/tt0053488/img",
+      "posterShape": "poster",
+      "releaseInfo": "1960"
+    },
+    {
+      "id": "tt0098929",
+      "type": "series",
+      "name": "Tiny Toon Adventures",
+      "poster": "https://images.metahub.space/poster/medium/tt0098929/img",
+      "background": "https://images.metahub.space/background/medium/tt0098929/img",
+      "posterShape": "poster",
+      "releaseInfo": "1990"
+    },
+    {
+      "id": "tt0103562",
+      "type": "series",
+      "name": "Taz-Mania",
+      "poster": "https://images.metahub.space/poster/medium/tt0103562/img",
+      "background": "https://images.metahub.space/background/medium/tt0103562/img",
+      "posterShape": "poster",
+      "releaseInfo": "1991"
+    },
+    {
+      "id": "tt0112186",
+      "type": "series",
+      "name": "The Sylvester & Tweety Mysteries",
+      "poster": "https://images.metahub.space/poster/medium/tt0112186/img",
+      "background": "https://images.metahub.space/background/medium/tt0112186/img",
+      "posterShape": "poster",
+      "releaseInfo": "1995"
+    },
+    {
+      "id": "tt0338580",
+      "type": "series",
+      "name": "Baby Looney Tunes",
+      "poster": "https://images.metahub.space/poster/medium/tt0338580/img",
+      "background": "https://images.metahub.space/background/medium/tt0338580/img",
+      "posterShape": "poster",
+      "releaseInfo": "2002"
+    },
+    {
+      "id": "tt1726839",
+      "type": "series",
+      "name": "The Looney Tunes Show",
+      "poster": "https://images.metahub.space/poster/medium/tt1726839/img",
+      "background": "https://images.metahub.space/background/medium/tt1726839/img",
+      "posterShape": "poster",
+      "releaseInfo": "2011"
+    },
+    {
+      "id": "tt4558858",
+      "type": "series",
+      "name": "New Looney Tunes",
+      "poster": "https://images.metahub.space/poster/medium/tt4558858/img",
+      "background": "https://images.metahub.space/background/medium/tt4558858/img",
+      "posterShape": "poster",
+      "releaseInfo": "2015"
+    },
+    {
+      "id": "tt8543208",
+      "type": "series",
+      "name": "Looney Tunes Cartoons",
+      "poster": "https://images.metahub.space/poster/medium/tt8543208/img",
+      "background": "https://images.metahub.space/background/medium/tt8543208/img",
+      "posterShape": "poster",
+      "releaseInfo": "2020"
+    },
+    {
+      "id": "tt21050232",
+      "type": "series",
+      "name": "Bugs Bunny Builders",
+      "poster": "https://images.metahub.space/poster/medium/tt21050232/img",
+      "background": "https://images.metahub.space/background/medium/tt21050232/img",
+      "posterShape": "poster",
+      "releaseInfo": "2022"
+    },
+    {
+      "id": "tt13362852",
+      "type": "series",
+      "name": "Tiny Toons Looniversity",
+      "poster": "https://images.metahub.space/poster/medium/tt13362852/img",
+      "background": "https://images.metahub.space/background/medium/tt13362852/img",
+      "posterShape": "poster",
+      "releaseInfo": "2023"
+    }
+  ]
+}

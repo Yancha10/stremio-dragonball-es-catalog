@@ -1,0 +1,904 @@
+{
+  "metas": [
+    {
+      "id": "tt0030603",
+      "type": "movie",
+      "name": "Porky in Egypt",
+      "poster": "https://images.metahub.space/poster/medium/tt0030603/img",
+      "background": "https://images.metahub.space/background/medium/tt0030603/img",
+      "posterShape": "poster",
+      "releaseInfo": "1938"
+    },
+    {
+      "id": "tt0030604",
+      "type": "movie",
+      "name": "Porky in Wackyland",
+      "poster": "https://images.metahub.space/poster/medium/tt0030604/img",
+      "background": "https://images.metahub.space/background/medium/tt0030604/img",
+      "posterShape": "poster",
+      "releaseInfo": "1938"
+    },
+    {
+      "id": "tt0030605",
+      "type": "movie",
+      "name": "Porky the Fireman",
+      "poster": "https://images.metahub.space/poster/medium/tt0030605/img",
+      "background": "https://images.metahub.space/background/medium/tt0030605/img",
+      "posterShape": "poster",
+      "releaseInfo": "1938"
+    },
+    {
+      "id": "tt0030606",
+      "type": "movie",
+      "name": "Porky the Gob",
+      "poster": "https://images.metahub.space/poster/medium/tt0030606/img",
+      "background": "https://images.metahub.space/background/medium/tt0030606/img",
+      "posterShape": "poster",
+      "releaseInfo": "1938"
+    },
+    {
+      "id": "tt0030607",
+      "type": "movie",
+      "name": "Porky's Five & Ten",
+      "poster": "https://images.metahub.space/poster/medium/tt0030607/img",
+      "background": "https://images.metahub.space/background/medium/tt0030607/img",
+      "posterShape": "poster",
+      "releaseInfo": "1938"
+    },
+    {
+      "id": "tt0030608",
+      "type": "movie",
+      "name": "Porky's Hare Hunt",
+      "poster": "https://images.metahub.space/poster/medium/tt0030608/img",
+      "background": "https://images.metahub.space/background/medium/tt0030608/img",
+      "posterShape": "poster",
+      "releaseInfo": "1938"
+    },
+    {
+      "id": "tt0030609",
+      "type": "movie",
+      "name": "Porky's Naughty Nephew",
+      "poster": "https://images.metahub.space/poster/medium/tt0030609/img",
+      "background": "https://images.metahub.space/background/medium/tt0030609/img",
+      "posterShape": "poster",
+      "releaseInfo": "1938"
+    },
+    {
+      "id": "tt0030610",
+      "type": "movie",
+      "name": "Porky's Party",
+      "poster": "https://images.metahub.space/poster/medium/tt0030610/img",
+      "background": "https://images.metahub.space/background/medium/tt0030610/img",
+      "posterShape": "poster",
+      "releaseInfo": "1938"
+    },
+    {
+      "id": "tt0030611",
+      "type": "movie",
+      "name": "Porky's Phoney Express",
+      "poster": "https://images.metahub.space/poster/medium/tt0030611/img",
+      "background": "https://images.metahub.space/background/medium/tt0030611/img",
+      "posterShape": "poster",
+      "releaseInfo": "1938"
+    },
+    {
+      "id": "tt0030612",
+      "type": "movie",
+      "name": "Porky's Poppa",
+      "poster": "https://images.metahub.space/poster/medium/tt0030612/img",
+      "background": "https://images.metahub.space/background/medium/tt0030612/img",
+      "posterShape": "poster",
+      "releaseInfo": "1938"
+    },
+    {
+      "id": "tt0030613",
+      "type": "movie",
+      "name": "Porky's Spring Planting",
+      "poster": "https://images.metahub.space/poster/medium/tt0030613/img",
+      "background": "https://images.metahub.space/background/medium/tt0030613/img",
+      "posterShape": "poster",
+      "releaseInfo": "1938"
+    },
+    {
+      "id": "tt0030033",
+      "type": "movie",
+      "name": "The Daffy Doc",
+      "poster": "https://images.metahub.space/poster/medium/tt0030033/img",
+      "background": "https://images.metahub.space/background/medium/tt0030033/img",
+      "posterShape": "poster",
+      "releaseInfo": "1938"
+    },
+    {
+      "id": "tt0030963",
+      "type": "movie",
+      "name": "What Price Porky",
+      "poster": "https://images.metahub.space/poster/medium/tt0030963/img",
+      "background": "https://images.metahub.space/background/medium/tt0030963/img",
+      "posterShape": "poster",
+      "releaseInfo": "1938"
+    },
+    {
+      "id": "tt0030975",
+      "type": "movie",
+      "name": "Wholly Smoke",
+      "poster": "https://images.metahub.space/poster/medium/tt0030975/img",
+      "background": "https://images.metahub.space/background/medium/tt0030975/img",
+      "posterShape": "poster",
+      "releaseInfo": "1938"
+    },
+    {
+      "id": "tt0031153",
+      "type": "movie",
+      "name": "Chicken Jitters",
+      "poster": "https://images.metahub.space/poster/medium/tt0031153/img",
+      "background": "https://images.metahub.space/background/medium/tt0031153/img",
+      "posterShape": "poster",
+      "releaseInfo": "1939"
+    },
+    {
+      "id": "tt0031290",
+      "type": "movie",
+      "name": "Fagin's Freshmen",
+      "poster": "https://images.metahub.space/poster/medium/tt0031290/img",
+      "background": "https://images.metahub.space/background/medium/tt0031290/img",
+      "posterShape": "poster",
+      "releaseInfo": "1939"
+    },
+    {
+      "id": "tt0031501",
+      "type": "movie",
+      "name": "It's an Ill Wind",
+      "poster": "https://images.metahub.space/poster/medium/tt0031501/img",
+      "background": "https://images.metahub.space/background/medium/tt0031501/img",
+      "posterShape": "poster",
+      "releaseInfo": "1939"
+    },
+    {
+      "id": "tt0031506",
+      "type": "movie",
+      "name": "Jeepers Creepers",
+      "poster": "https://images.metahub.space/poster/medium/tt0031506/img",
+      "background": "https://images.metahub.space/background/medium/tt0031506/img",
+      "posterShape": "poster",
+      "releaseInfo": "1939"
+    },
+    {
+      "id": "tt0031543",
+      "type": "movie",
+      "name": "Kristopher Kolumbus Jr.",
+      "poster": "https://images.metahub.space/poster/medium/tt0031543/img",
+      "background": "https://images.metahub.space/background/medium/tt0031543/img",
+      "posterShape": "poster",
+      "releaseInfo": "1939"
+    },
+    {
+      "id": "tt0031713",
+      "type": "movie",
+      "name": "Naughty Neighbors",
+      "poster": "https://images.metahub.space/poster/medium/tt0031713/img",
+      "background": "https://images.metahub.space/background/medium/tt0031713/img",
+      "posterShape": "poster",
+      "releaseInfo": "1939"
+    },
+    {
+      "id": "tt0031799",
+      "type": "movie",
+      "name": "Pied Piper Porky",
+      "poster": "https://images.metahub.space/poster/medium/tt0031799/img",
+      "background": "https://images.metahub.space/background/medium/tt0031799/img",
+      "posterShape": "poster",
+      "releaseInfo": "1939"
+    },
+    {
+      "id": "tt0031805",
+      "type": "movie",
+      "name": "Polar Pals",
+      "poster": "https://images.metahub.space/poster/medium/tt0031805/img",
+      "background": "https://images.metahub.space/background/medium/tt0031805/img",
+      "posterShape": "poster",
+      "releaseInfo": "1939"
+    },
+    {
+      "id": "tt0031811",
+      "type": "movie",
+      "name": "Porky and Teabiscuit",
+      "poster": "https://images.metahub.space/poster/medium/tt0031811/img",
+      "background": "https://images.metahub.space/background/medium/tt0031811/img",
+      "posterShape": "poster",
+      "releaseInfo": "1939"
+    },
+    {
+      "id": "tt0031812",
+      "type": "movie",
+      "name": "Porky the Giant Killer",
+      "poster": "https://images.metahub.space/poster/medium/tt0031812/img",
+      "background": "https://images.metahub.space/background/medium/tt0031812/img",
+      "posterShape": "poster",
+      "releaseInfo": "1939"
+    },
+    {
+      "id": "tt0031813",
+      "type": "movie",
+      "name": "Porky's Hotel",
+      "poster": "https://images.metahub.space/poster/medium/tt0031813/img",
+      "background": "https://images.metahub.space/background/medium/tt0031813/img",
+      "posterShape": "poster",
+      "releaseInfo": "1939"
+    },
+    {
+      "id": "tt0031814",
+      "type": "movie",
+      "name": "Porky's Movie Mystery",
+      "poster": "https://images.metahub.space/poster/medium/tt0031814/img",
+      "background": "https://images.metahub.space/background/medium/tt0031814/img",
+      "posterShape": "poster",
+      "releaseInfo": "1939"
+    },
+    {
+      "id": "tt0031815",
+      "type": "movie",
+      "name": "Porky's Picnic",
+      "poster": "https://images.metahub.space/poster/medium/tt0031815/img",
+      "background": "https://images.metahub.space/background/medium/tt0031815/img",
+      "posterShape": "poster",
+      "releaseInfo": "1939"
+    },
+    {
+      "id": "tt0031816",
+      "type": "movie",
+      "name": "Porky's Tire Trouble",
+      "poster": "https://images.metahub.space/poster/medium/tt0031816/img",
+      "background": "https://images.metahub.space/background/medium/tt0031816/img",
+      "posterShape": "poster",
+      "releaseInfo": "1939"
+    },
+    {
+      "id": "tt0031899",
+      "type": "movie",
+      "name": "Scalp Trouble",
+      "poster": "https://images.metahub.space/poster/medium/tt0031899/img",
+      "background": "https://images.metahub.space/background/medium/tt0031899/img",
+      "posterShape": "poster",
+      "releaseInfo": "1939"
+    },
+    {
+      "id": "tt0032331",
+      "type": "movie",
+      "name": "The Chewin' Bruin",
+      "poster": "https://images.metahub.space/poster/medium/tt0032331/img",
+      "background": "https://images.metahub.space/background/medium/tt0032331/img",
+      "posterShape": "poster",
+      "releaseInfo": "1939"
+    },
+    {
+      "id": "tt0031308",
+      "type": "movie",
+      "name": "The Film Fan",
+      "poster": "https://images.metahub.space/poster/medium/tt0031308/img",
+      "background": "https://images.metahub.space/background/medium/tt0031308/img",
+      "posterShape": "poster",
+      "releaseInfo": "1939"
+    },
+    {
+      "id": "tt0031588",
+      "type": "movie",
+      "name": "The Lone Stranger and Porky",
+      "poster": "https://images.metahub.space/poster/medium/tt0031588/img",
+      "background": "https://images.metahub.space/background/medium/tt0031588/img",
+      "posterShape": "poster",
+      "releaseInfo": "1939"
+    },
+    {
+      "id": "tt0032134",
+      "type": "movie",
+      "name": "Wise Quacks",
+      "poster": "https://images.metahub.space/poster/medium/tt0032134/img",
+      "background": "https://images.metahub.space/background/medium/tt0032134/img",
+      "posterShape": "poster",
+      "releaseInfo": "1939"
+    },
+    {
+      "id": "tt0032185",
+      "type": "movie",
+      "name": "Africa Squeaks",
+      "poster": "https://images.metahub.space/poster/medium/tt0032185/img",
+      "background": "https://images.metahub.space/background/medium/tt0032185/img",
+      "posterShape": "poster",
+      "releaseInfo": "1940"
+    },
+    {
+      "id": "tt0032190",
+      "type": "movie",
+      "name": "Ali-Baba Bound",
+      "poster": "https://images.metahub.space/poster/medium/tt0032190/img",
+      "background": "https://images.metahub.space/background/medium/tt0032190/img",
+      "posterShape": "poster",
+      "releaseInfo": "1940"
+    },
+    {
+      "id": "tt0032298",
+      "type": "movie",
+      "name": "Calling Dr. Porky",
+      "poster": "https://images.metahub.space/poster/medium/tt0032298/img",
+      "background": "https://images.metahub.space/background/medium/tt0032298/img",
+      "posterShape": "poster",
+      "releaseInfo": "1940"
+    },
+    {
+      "id": "tt0032895",
+      "type": "movie",
+      "name": "Patient Porky",
+      "poster": "https://images.metahub.space/poster/medium/tt0032895/img",
+      "background": "https://images.metahub.space/background/medium/tt0032895/img",
+      "posterShape": "poster",
+      "releaseInfo": "1940"
+    },
+    {
+      "id": "tt0032909",
+      "type": "movie",
+      "name": "Pilgrim Porky",
+      "poster": "https://images.metahub.space/poster/medium/tt0032909/img",
+      "background": "https://images.metahub.space/background/medium/tt0032909/img",
+      "posterShape": "poster",
+      "releaseInfo": "1940"
+    },
+    {
+      "id": "tt0032930",
+      "type": "movie",
+      "name": "Porky's Baseball Broadcast",
+      "poster": "https://images.metahub.space/poster/medium/tt0032930/img",
+      "background": "https://images.metahub.space/background/medium/tt0032930/img",
+      "posterShape": "poster",
+      "releaseInfo": "1940"
+    },
+    {
+      "id": "tt0032931",
+      "type": "movie",
+      "name": "Porky's Hired Hand",
+      "poster": "https://images.metahub.space/poster/medium/tt0032931/img",
+      "background": "https://images.metahub.space/background/medium/tt0032931/img",
+      "posterShape": "poster",
+      "releaseInfo": "1940"
+    },
+    {
+      "id": "tt0032932",
+      "type": "movie",
+      "name": "Porky's Last Stand",
+      "poster": "https://images.metahub.space/poster/medium/tt0032932/img",
+      "background": "https://images.metahub.space/background/medium/tt0032932/img",
+      "posterShape": "poster",
+      "releaseInfo": "1940"
+    },
+    {
+      "id": "tt0032933",
+      "type": "movie",
+      "name": "Porky's Poor Fish",
+      "poster": "https://images.metahub.space/poster/medium/tt0032933/img",
+      "background": "https://images.metahub.space/background/medium/tt0032933/img",
+      "posterShape": "poster",
+      "releaseInfo": "1940"
+    },
+    {
+      "id": "tt0032941",
+      "type": "movie",
+      "name": "Prehistoric Porky",
+      "poster": "https://images.metahub.space/poster/medium/tt0032941/img",
+      "background": "https://images.metahub.space/background/medium/tt0032941/img",
+      "posterShape": "poster",
+      "releaseInfo": "1940"
+    },
+    {
+      "id": "tt0033061",
+      "type": "movie",
+      "name": "Slap Happy Pappy",
+      "poster": "https://images.metahub.space/poster/medium/tt0033061/img",
+      "background": "https://images.metahub.space/background/medium/tt0033061/img",
+      "posterShape": "poster",
+      "releaseInfo": "1940"
+    },
+    {
+      "id": "tt0033081",
+      "type": "movie",
+      "name": "The Sour Puss",
+      "poster": "https://images.metahub.space/poster/medium/tt0033081/img",
+      "background": "https://images.metahub.space/background/medium/tt0033081/img",
+      "posterShape": "poster",
+      "releaseInfo": "1940"
+    },
+    {
+      "id": "tt0033166",
+      "type": "movie",
+      "name": "The Timid Toreador",
+      "poster": "https://images.metahub.space/poster/medium/tt0033166/img",
+      "background": "https://images.metahub.space/background/medium/tt0033166/img",
+      "posterShape": "poster",
+      "releaseInfo": "1940"
+    },
+    {
+      "id": "tt0033282",
+      "type": "movie",
+      "name": "You Ought to Be in Pictures",
+      "poster": "https://images.metahub.space/poster/medium/tt0033282/img",
+      "background": "https://images.metahub.space/background/medium/tt0033282/img",
+      "posterShape": "poster",
+      "releaseInfo": "1940"
+    },
+    {
+      "id": "tt0033496",
+      "type": "movie",
+      "name": "A Coy Decoy",
+      "poster": "https://images.metahub.space/poster/medium/tt0033496/img",
+      "background": "https://images.metahub.space/background/medium/tt0033496/img",
+      "posterShape": "poster",
+      "releaseInfo": "1941"
+    },
+    {
+      "id": "tt0033773",
+      "type": "movie",
+      "name": "Joe Glow, the Firefly",
+      "poster": "https://images.metahub.space/poster/medium/tt0033773/img",
+      "background": "https://images.metahub.space/background/medium/tt0033773/img",
+      "posterShape": "poster",
+      "releaseInfo": "1941"
+    },
+    {
+      "id": "tt0033892",
+      "type": "movie",
+      "name": "Meet John Doughboy",
+      "poster": "https://images.metahub.space/poster/medium/tt0033892/img",
+      "background": "https://images.metahub.space/background/medium/tt0033892/img",
+      "posterShape": "poster",
+      "releaseInfo": "1941"
+    },
+    {
+      "id": "tt0033962",
+      "type": "movie",
+      "name": "Notes to You",
+      "poster": "https://images.metahub.space/poster/medium/tt0033962/img",
+      "background": "https://images.metahub.space/background/medium/tt0033962/img",
+      "posterShape": "poster",
+      "releaseInfo": "1941"
+    },
+    {
+      "id": "tt0034047",
+      "type": "movie",
+      "name": "Porky's Bear Facts",
+      "poster": "https://images.metahub.space/poster/medium/tt0034047/img",
+      "background": "https://images.metahub.space/background/medium/tt0034047/img",
+      "posterShape": "poster",
+      "releaseInfo": "1941"
+    },
+    {
+      "id": "tt0034048",
+      "type": "movie",
+      "name": "Porky's Midnight Matinee",
+      "poster": "https://images.metahub.space/poster/medium/tt0034048/img",
+      "background": "https://images.metahub.space/background/medium/tt0034048/img",
+      "posterShape": "poster",
+      "releaseInfo": "1941"
+    },
+    {
+      "id": "tt0034049",
+      "type": "movie",
+      "name": "Porky's Pooch",
+      "poster": "https://images.metahub.space/poster/medium/tt0034049/img",
+      "background": "https://images.metahub.space/background/medium/tt0034049/img",
+      "posterShape": "poster",
+      "releaseInfo": "1941"
+    },
+    {
+      "id": "tt0034050",
+      "type": "movie",
+      "name": "Porky's Preview",
+      "poster": "https://images.metahub.space/poster/medium/tt0034050/img",
+      "background": "https://images.metahub.space/background/medium/tt0034050/img",
+      "posterShape": "poster",
+      "releaseInfo": "1941"
+    },
+    {
+      "id": "tt0034051",
+      "type": "movie",
+      "name": "Porky's Prize Pony",
+      "poster": "https://images.metahub.space/poster/medium/tt0034051/img",
+      "background": "https://images.metahub.space/background/medium/tt0034051/img",
+      "posterShape": "poster",
+      "releaseInfo": "1941"
+    },
+    {
+      "id": "tt0034052",
+      "type": "movie",
+      "name": "Porky's Snooze Reel",
+      "poster": "https://images.metahub.space/poster/medium/tt0034052/img",
+      "background": "https://images.metahub.space/background/medium/tt0034052/img",
+      "posterShape": "poster",
+      "releaseInfo": "1941"
+    },
+    {
+      "id": "tt0033693",
+      "type": "movie",
+      "name": "Q26720535",
+      "poster": "https://images.metahub.space/poster/medium/tt0033693/img",
+      "background": "https://images.metahub.space/background/medium/tt0033693/img",
+      "posterShape": "poster",
+      "releaseInfo": "1941"
+    },
+    {
+      "id": "tt0034121",
+      "type": "movie",
+      "name": "Robinson Crusoe Jr.",
+      "poster": "https://images.metahub.space/poster/medium/tt0034121/img",
+      "background": "https://images.metahub.space/background/medium/tt0034121/img",
+      "posterShape": "poster",
+      "releaseInfo": "1941"
+    },
+    {
+      "id": "tt0033707",
+      "type": "movie",
+      "name": "The Henpecked Duck",
+      "poster": "https://images.metahub.space/poster/medium/tt0033707/img",
+      "background": "https://images.metahub.space/background/medium/tt0033707/img",
+      "posterShape": "poster",
+      "releaseInfo": "1941"
+    },
+    {
+      "id": "tt0034376",
+      "type": "movie",
+      "name": "We, the Animals Squeak!",
+      "poster": "https://images.metahub.space/poster/medium/tt0034376/img",
+      "background": "https://images.metahub.space/background/medium/tt0034376/img",
+      "posterShape": "poster",
+      "releaseInfo": "1941"
+    },
+    {
+      "id": "tt0034631",
+      "type": "movie",
+      "name": "Daffy's Southern Exposure",
+      "poster": "https://images.metahub.space/poster/medium/tt0034631/img",
+      "background": "https://images.metahub.space/background/medium/tt0034631/img",
+      "posterShape": "poster",
+      "releaseInfo": "1942"
+    },
+    {
+      "id": "tt0034693",
+      "type": "movie",
+      "name": "Eatin' on the Cuff",
+      "poster": "https://images.metahub.space/poster/medium/tt0034693/img",
+      "background": "https://images.metahub.space/background/medium/tt0034693/img",
+      "posterShape": "poster",
+      "releaseInfo": "1942"
+    },
+    {
+      "id": "tt0034802",
+      "type": "movie",
+      "name": "Gopher Goofy",
+      "poster": "https://images.metahub.space/poster/medium/tt0034802/img",
+      "background": "https://images.metahub.space/background/medium/tt0034802/img",
+      "posterShape": "poster",
+      "releaseInfo": "1942"
+    },
+    {
+      "id": "tt0034858",
+      "type": "movie",
+      "name": "Hobby Horse Laffs",
+      "poster": "https://images.metahub.space/poster/medium/tt0034858/img",
+      "background": "https://images.metahub.space/background/medium/tt0034858/img",
+      "posterShape": "poster",
+      "releaseInfo": "1942"
+    },
+    {
+      "id": "tt0035101",
+      "type": "movie",
+      "name": "My Favorite Duck",
+      "poster": "https://images.metahub.space/poster/medium/tt0035101/img",
+      "background": "https://images.metahub.space/background/medium/tt0035101/img",
+      "posterShape": "poster",
+      "releaseInfo": "1942"
+    },
+    {
+      "id": "tt0035141",
+      "type": "movie",
+      "name": "Nutty News",
+      "poster": "https://images.metahub.space/poster/medium/tt0035141/img",
+      "background": "https://images.metahub.space/background/medium/tt0035141/img",
+      "posterShape": "poster",
+      "releaseInfo": "1942"
+    },
+    {
+      "id": "tt0035202",
+      "type": "movie",
+      "name": "Porky's Cafe",
+      "poster": "https://images.metahub.space/poster/medium/tt0035202/img",
+      "background": "https://images.metahub.space/background/medium/tt0035202/img",
+      "posterShape": "poster",
+      "releaseInfo": "1942"
+    },
+    {
+      "id": "tt0035203",
+      "type": "movie",
+      "name": "Porky's Pastry Pirates",
+      "poster": "https://images.metahub.space/poster/medium/tt0035203/img",
+      "background": "https://images.metahub.space/background/medium/tt0035203/img",
+      "posterShape": "poster",
+      "releaseInfo": "1942"
+    },
+    {
+      "id": "tt0035288",
+      "type": "movie",
+      "name": "Saps in Chaps",
+      "poster": "https://images.metahub.space/poster/medium/tt0035288/img",
+      "background": "https://images.metahub.space/background/medium/tt0035288/img",
+      "posterShape": "poster",
+      "releaseInfo": "1942"
+    },
+    {
+      "id": "tt0034630",
+      "type": "movie",
+      "name": "The Daffy Duckaroo",
+      "poster": "https://images.metahub.space/poster/medium/tt0034630/img",
+      "background": "https://images.metahub.space/background/medium/tt0034630/img",
+      "posterShape": "poster",
+      "releaseInfo": "1942"
+    },
+    {
+      "id": "tt0034685",
+      "type": "movie",
+      "name": "The Ducktators",
+      "poster": "https://images.metahub.space/poster/medium/tt0034685/img",
+      "background": "https://images.metahub.space/background/medium/tt0034685/img",
+      "posterShape": "poster",
+      "releaseInfo": "1942"
+    },
+    {
+      "id": "tt0034845",
+      "type": "movie",
+      "name": "The Hep Cat",
+      "poster": "https://images.metahub.space/poster/medium/tt0034845/img",
+      "background": "https://images.metahub.space/background/medium/tt0034845/img",
+      "posterShape": "poster",
+      "releaseInfo": "1942"
+    },
+    {
+      "id": "tt0034888",
+      "type": "movie",
+      "name": "The Impatient Patient",
+      "poster": "https://images.metahub.space/poster/medium/tt0034888/img",
+      "background": "https://images.metahub.space/background/medium/tt0034888/img",
+      "posterShape": "poster",
+      "releaseInfo": "1942"
+    },
+    {
+      "id": "tt0035528",
+      "type": "movie",
+      "name": "Wacky Blackout",
+      "poster": "https://images.metahub.space/poster/medium/tt0035528/img",
+      "background": "https://images.metahub.space/background/medium/tt0035528/img",
+      "posterShape": "poster",
+      "releaseInfo": "1942"
+    },
+    {
+      "id": "tt0035557",
+      "type": "movie",
+      "name": "Who's Who in the Zoo",
+      "poster": "https://images.metahub.space/poster/medium/tt0035557/img",
+      "background": "https://images.metahub.space/background/medium/tt0035557/img",
+      "posterShape": "poster",
+      "releaseInfo": "1942"
+    },
+    {
+      "id": "tt0035750",
+      "type": "movie",
+      "name": "Confusions of a Nutzy Spy",
+      "poster": "https://images.metahub.space/poster/medium/tt0035750/img",
+      "background": "https://images.metahub.space/background/medium/tt0035750/img",
+      "posterShape": "poster",
+      "releaseInfo": "1943"
+    },
+    {
+      "id": "tt0035774",
+      "type": "movie",
+      "name": "Daffy – The Commando",
+      "poster": "https://images.metahub.space/poster/medium/tt0035774/img",
+      "background": "https://images.metahub.space/background/medium/tt0035774/img",
+      "posterShape": "poster",
+      "releaseInfo": "1943"
+    },
+    {
+      "id": "tt0036015",
+      "type": "movie",
+      "name": "Hop and Go",
+      "poster": "https://images.metahub.space/poster/medium/tt0036015/img",
+      "background": "https://images.metahub.space/background/medium/tt0036015/img",
+      "posterShape": "poster",
+      "releaseInfo": "1943"
+    },
+    {
+      "id": "tt0036271",
+      "type": "movie",
+      "name": "Porky Pig's Feat",
+      "poster": "https://images.metahub.space/poster/medium/tt0036271/img",
+      "background": "https://images.metahub.space/background/medium/tt0036271/img",
+      "posterShape": "poster",
+      "releaseInfo": "1943"
+    },
+    {
+      "id": "tt0036282",
+      "type": "movie",
+      "name": "Puss n' Booty",
+      "poster": "https://images.metahub.space/poster/medium/tt0036282/img",
+      "background": "https://images.metahub.space/background/medium/tt0036282/img",
+      "posterShape": "poster",
+      "releaseInfo": "1943"
+    },
+    {
+      "id": "tt0036334",
+      "type": "movie",
+      "name": "Scrap Happy Daffy",
+      "poster": "https://images.metahub.space/poster/medium/tt0036334/img",
+      "background": "https://images.metahub.space/background/medium/tt0036334/img",
+      "posterShape": "poster",
+      "releaseInfo": "1943"
+    },
+    {
+      "id": "tt0036542",
+      "type": "movie",
+      "name": "The Wise Quacking Duck",
+      "poster": "https://images.metahub.space/poster/medium/tt0036542/img",
+      "background": "https://images.metahub.space/background/medium/tt0036542/img",
+      "posterShape": "poster",
+      "releaseInfo": "1943"
+    },
+    {
+      "id": "tt0036444",
+      "type": "movie",
+      "name": "To Duck or Not to Duck",
+      "poster": "https://images.metahub.space/poster/medium/tt0036444/img",
+      "background": "https://images.metahub.space/background/medium/tt0036444/img",
+      "posterShape": "poster",
+      "releaseInfo": "1943"
+    },
+    {
+      "id": "tt0036446",
+      "type": "movie",
+      "name": "Tokio Jokio",
+      "poster": "https://images.metahub.space/poster/medium/tt0036446/img",
+      "background": "https://images.metahub.space/background/medium/tt0036446/img",
+      "posterShape": "poster",
+      "releaseInfo": "1943"
+    },
+    {
+      "id": "tt0036546",
+      "type": "movie",
+      "name": "Yankee Doodle Daffy",
+      "poster": "https://images.metahub.space/poster/medium/tt0036546/img",
+      "background": "https://images.metahub.space/background/medium/tt0036546/img",
+      "posterShape": "poster",
+      "releaseInfo": "1943"
+    },
+    {
+      "id": "tt0036603",
+      "type": "movie",
+      "name": "Angel Puss",
+      "poster": "https://images.metahub.space/poster/medium/tt0036603/img",
+      "background": "https://images.metahub.space/background/medium/tt0036603/img",
+      "posterShape": "poster",
+      "releaseInfo": "1944"
+    },
+    {
+      "id": "tt0036660",
+      "type": "movie",
+      "name": "Booby Hatched",
+      "poster": "https://images.metahub.space/poster/medium/tt0036660/img",
+      "background": "https://images.metahub.space/background/medium/tt0036660/img",
+      "posterShape": "poster",
+      "releaseInfo": "1944"
+    },
+    {
+      "id": "tt0036674",
+      "type": "movie",
+      "name": "Brother Brat",
+      "poster": "https://images.metahub.space/poster/medium/tt0036674/img",
+      "background": "https://images.metahub.space/background/medium/tt0036674/img",
+      "posterShape": "poster",
+      "releaseInfo": "1944"
+    },
+    {
+      "id": "tt0036676",
+      "type": "movie",
+      "name": "Buckaroo Bugs",
+      "poster": "https://images.metahub.space/poster/medium/tt0036676/img",
+      "background": "https://images.metahub.space/background/medium/tt0036676/img",
+      "posterShape": "poster",
+      "releaseInfo": "1944"
+    },
+    {
+      "id": "tt0036780",
+      "type": "movie",
+      "name": "Duck Soup to Nuts",
+      "poster": "https://images.metahub.space/poster/medium/tt0036780/img",
+      "background": "https://images.metahub.space/background/medium/tt0036780/img",
+      "posterShape": "poster",
+      "releaseInfo": "1944"
+    },
+    {
+      "id": "tt0036937",
+      "type": "movie",
+      "name": "I Got Plenty of Mutton",
+      "poster": "https://images.metahub.space/poster/medium/tt0036937/img",
+      "background": "https://images.metahub.space/background/medium/tt0036937/img",
+      "posterShape": "poster",
+      "releaseInfo": "1944"
+    },
+    {
+      "id": "tt0037180",
+      "type": "movie",
+      "name": "Plane Daffy",
+      "poster": "https://images.metahub.space/poster/medium/tt0037180/img",
+      "background": "https://images.metahub.space/background/medium/tt0037180/img",
+      "posterShape": "poster",
+      "releaseInfo": "1944"
+    },
+    {
+      "id": "tt0037339",
+      "type": "movie",
+      "name": "Swooner Crooner",
+      "poster": "https://images.metahub.space/poster/medium/tt0037339/img",
+      "background": "https://images.metahub.space/background/medium/tt0037339/img",
+      "posterShape": "poster",
+      "releaseInfo": "1944"
+    },
+    {
+      "id": "tt0037319",
+      "type": "movie",
+      "name": "The Stupid Cupid",
+      "poster": "https://images.metahub.space/poster/medium/tt0037319/img",
+      "background": "https://images.metahub.space/background/medium/tt0037319/img",
+      "posterShape": "poster",
+      "releaseInfo": "1944"
+    },
+    {
+      "id": "tt0037377",
+      "type": "movie",
+      "name": "Tick Tock Tuckered",
+      "poster": "https://images.metahub.space/poster/medium/tt0037377/img",
+      "background": "https://images.metahub.space/background/medium/tt0037377/img",
+      "posterShape": "poster",
+      "releaseInfo": "1944"
+    },
+    {
+      "id": "tt0037385",
+      "type": "movie",
+      "name": "Tom Turk and Daffy",
+      "poster": "https://images.metahub.space/poster/medium/tt0037385/img",
+      "background": "https://images.metahub.space/background/medium/tt0037385/img",
+      "posterShape": "poster",
+      "releaseInfo": "1944"
+    },
+    {
+      "id": "tt0037501",
+      "type": "movie",
+      "name": "Ain't That Ducky",
+      "poster": "https://images.metahub.space/poster/medium/tt0037501/img",
+      "background": "https://images.metahub.space/background/medium/tt0037501/img",
+      "posterShape": "poster",
+      "releaseInfo": "1945"
+    },
+    {
+      "id": "tt0037533",
+      "type": "movie",
+      "name": "Behind the Meat-Ball",
+      "poster": "https://images.metahub.space/poster/medium/tt0037533/img",
+      "background": "https://images.metahub.space/background/medium/tt0037533/img",
+      "posterShape": "poster",
+      "releaseInfo": "1945"
+    },
+    {
+      "id": "tt0037659",
+      "type": "movie",
+      "name": "Draftee Daffy",
+      "poster": "https://images.metahub.space/poster/medium/tt0037659/img",
+      "background": "https://images.metahub.space/background/medium/tt0037659/img",
+      "posterShape": "poster",
+      "releaseInfo": "1945"
+    }
+  ]
+}

@@ -1,0 +1,807 @@
+[
+  {
+    "name": "Bugged by a Bee",
+    "year": 1969,
+    "imdb": "tt0064113",
+    "banner": "Looney Tunes",
+    "wikidata": "Q4986166"
+  },
+  {
+    "name": "Clippety Clobbered",
+    "year": 1966,
+    "imdb": "tt0060244",
+    "banner": "Looney Tunes",
+    "wikidata": "Q5134388"
+  },
+  {
+    "name": "Cool Cat",
+    "year": 1967,
+    "imdb": "tt0061511",
+    "banner": "Looney Tunes",
+    "wikidata": "Q5167273"
+  },
+  {
+    "name": "Daffy's Inn Trouble",
+    "year": 1961,
+    "imdb": "tt0054782",
+    "banner": "Looney Tunes",
+    "wikidata": "Q5208323"
+  },
+  {
+    "name": "Daffy Rents",
+    "year": 1966,
+    "imdb": "tt0060275",
+    "banner": "Looney Tunes",
+    "wikidata": "Q5208337"
+  },
+  {
+    "name": "False Hare",
+    "year": 1964,
+    "imdb": "tt0058086",
+    "banner": "Looney Tunes",
+    "wikidata": "Q5432642"
+  },
+  {
+    "name": "Fastest with the Mostest",
+    "year": 1960,
+    "imdb": "tt0053815",
+    "banner": "Looney Tunes",
+    "wikidata": "Q5437090"
+  },
+  {
+    "name": "Fiesta Fiasco",
+    "year": 1967,
+    "imdb": "tt0061663",
+    "banner": "Looney Tunes",
+    "wikidata": "Q5447315"
+  },
+  {
+    "name": "Freudy Cat",
+    "year": 1964,
+    "imdb": "tt0058117",
+    "banner": "Looney Tunes",
+    "wikidata": "Q5503262"
+  },
+  {
+    "name": "Hare-Breadth Hurry",
+    "year": 1963,
+    "imdb": "tt0057126",
+    "banner": "Looney Tunes",
+    "wikidata": "Q5656683"
+  },
+  {
+    "name": "Hopalong Casualty",
+    "year": 1960,
+    "imdb": "tt0053921",
+    "banner": "Looney Tunes",
+    "wikidata": "Q5898973"
+  },
+  {
+    "name": "Lickety-Splat",
+    "year": 1961,
+    "imdb": "tt0055085",
+    "banner": "Looney Tunes",
+    "wikidata": "Q6543467"
+  },
+  {
+    "name": "Louvre Come Back to Me!",
+    "year": 1962,
+    "imdb": "tt0056200",
+    "banner": "Looney Tunes",
+    "wikidata": "Q6689892"
+  },
+  {
+    "name": "Martian Through Georgia",
+    "year": 1962,
+    "imdb": "tt0056227",
+    "banner": "Looney Tunes",
+    "wikidata": "Q6774732"
+  },
+  {
+    "name": "Mexican Boarders",
+    "year": 1962,
+    "imdb": "tt0056235",
+    "banner": "Looney Tunes",
+    "wikidata": "Q6825750"
+  },
+  {
+    "name": "Mice Follies",
+    "year": 1960,
+    "imdb": "tt0054082",
+    "banner": "Looney Tunes",
+    "wikidata": "Q6827969"
+  },
+  {
+    "name": "The Astroduck",
+    "year": 1966,
+    "imdb": "tt0060136",
+    "banner": "Looney Tunes",
+    "wikidata": "Q946642"
+  },
+  {
+    "name": "Dumb Patrol",
+    "year": 1964,
+    "imdb": "tt0058046",
+    "banner": "Looney Tunes",
+    "wikidata": "Q971660"
+  },
+  {
+    "name": "Now Hear This",
+    "year": 1963,
+    "imdb": "tt0057367",
+    "banner": "Looney Tunes",
+    "wikidata": "Q1410346"
+  },
+  {
+    "name": "The Pied Piper of Guadalupe",
+    "year": 1961,
+    "imdb": "tt0055298",
+    "banner": "Looney Tunes",
+    "wikidata": "Q1449454"
+  },
+  {
+    "name": "High Note",
+    "year": 1960,
+    "imdb": "tt0053909",
+    "banner": "Looney Tunes",
+    "wikidata": "Q1610534"
+  },
+  {
+    "name": "Mouse and Garden",
+    "year": 1960,
+    "imdb": "tt0054096",
+    "banner": "Looney Tunes",
+    "wikidata": "Q1744972"
+  },
+  {
+    "name": "Prince Violent",
+    "year": 1961,
+    "imdb": "tt0055327",
+    "banner": "Looney Tunes",
+    "wikidata": "Q3403357"
+  },
+  {
+    "name": "Shishkabugs",
+    "year": 1962,
+    "imdb": "tt0056483",
+    "banner": "Looney Tunes",
+    "wikidata": "Q3482380"
+  },
+  {
+    "name": "A-Haunting We Will Go",
+    "year": 1966,
+    "imdb": "tt0060053",
+    "banner": "Looney Tunes",
+    "wikidata": "Q4646903"
+  },
+  {
+    "name": "A Message to Gracias",
+    "year": 1964,
+    "imdb": "tt0058344",
+    "banner": "Looney Tunes",
+    "wikidata": "Q4658220"
+  },
+  {
+    "name": "War and Pieces",
+    "year": 1964,
+    "imdb": "tt0058736",
+    "banner": "Looney Tunes",
+    "wikidata": "Q7968581"
+  },
+  {
+    "name": "Well Worn Daffy",
+    "year": 1965,
+    "imdb": "tt0059899",
+    "banner": "Looney Tunes",
+    "wikidata": "Q7981114"
+  },
+  {
+    "name": "What's My Lion?",
+    "year": 1961,
+    "imdb": "tt0055616",
+    "banner": "Looney Tunes",
+    "wikidata": "Q7990800"
+  },
+  {
+    "name": "Who Scent You?",
+    "year": 1960,
+    "imdb": "tt0054472",
+    "banner": "Looney Tunes",
+    "wikidata": "Q7997368"
+  },
+  {
+    "name": "It's Nice to Have a Mouse Around the House",
+    "year": 1965,
+    "imdb": "tt0059322",
+    "banner": "Looney Tunes",
+    "wikidata": "Q12125189"
+  },
+  {
+    "name": "See Ya Later Gladiator",
+    "year": 1968,
+    "imdb": "tt0063577",
+    "banner": "Looney Tunes",
+    "wikidata": "Q12127381"
+  },
+  {
+    "name": "Sugar and Spies",
+    "year": 1966,
+    "imdb": "tt0061041",
+    "banner": "Looney Tunes",
+    "wikidata": "Q12128505"
+  },
+  {
+    "name": "Goldimouse and the Three Cats",
+    "year": 1960,
+    "imdb": "tt0053874",
+    "banner": "Looney Tunes",
+    "wikidata": "Q16250832"
+  },
+  {
+    "name": "Nuts and Volts",
+    "year": 1964,
+    "imdb": "tt0058420",
+    "banner": "Looney Tunes",
+    "wikidata": "Q16253766"
+  },
+  {
+    "name": "A Scent of the Matterhorn",
+    "year": 1961,
+    "imdb": "tt0054590",
+    "banner": "Looney Tunes",
+    "wikidata": "Q16966172"
+  },
+  {
+    "name": "Moby Duck",
+    "year": 1965,
+    "imdb": "tt0059457",
+    "banner": "Looney Tunes",
+    "wikidata": "Q20649745"
+  },
+  {
+    "name": "Million Hare",
+    "year": 1963,
+    "imdb": "tt0057309",
+    "banner": "Looney Tunes",
+    "wikidata": "Q6859784"
+  },
+  {
+    "name": "Quacker Tracker",
+    "year": 1967,
+    "imdb": "tt0062166",
+    "banner": "Looney Tunes",
+    "wikidata": "Q7268244"
+  },
+  {
+    "name": "Rodent to Stardom",
+    "year": 1967,
+    "imdb": "tt0062210",
+    "banner": "Looney Tunes",
+    "wikidata": "Q7356542"
+  },
+  {
+    "name": "Señorella and the Glass Huarache",
+    "year": 1964,
+    "imdb": "tt0058582",
+    "banner": "Looney Tunes",
+    "wikidata": "Q7459664"
+  },
+  {
+    "name": "Skyscraper Caper",
+    "year": 1968,
+    "imdb": "tt0063614",
+    "banner": "Looney Tunes",
+    "wikidata": "Q7538013"
+  },
+  {
+    "name": "Suppressed Duck",
+    "year": 1965,
+    "imdb": "tt0059767",
+    "banner": "Looney Tunes",
+    "wikidata": "Q7644637"
+  },
+  {
+    "name": "Swing Ding Amigo",
+    "year": 1966,
+    "imdb": "tt0061051",
+    "banner": "Looney Tunes",
+    "wikidata": "Q7658554"
+  },
+  {
+    "name": "Tease for Two",
+    "year": 1965,
+    "imdb": "tt0059785",
+    "banner": "Looney Tunes",
+    "wikidata": "Q7691850"
+  },
+  {
+    "name": "The Abominable Snow Rabbit",
+    "year": 1961,
+    "imdb": "tt0054593",
+    "banner": "Looney Tunes",
+    "wikidata": "Q7712130"
+  },
+  {
+    "name": "The Iceman Ducketh",
+    "year": 1964,
+    "imdb": "tt0058223",
+    "banner": "Looney Tunes",
+    "wikidata": "Q7741297"
+  },
+  {
+    "name": "The Jet Cage",
+    "year": 1962,
+    "imdb": "tt0056118",
+    "banner": "Looney Tunes",
+    "wikidata": "Q7743164"
+  },
+  {
+    "name": "The Rebel Without Claws",
+    "year": 1961,
+    "imdb": "tt0055360",
+    "banner": "Looney Tunes",
+    "wikidata": "Q7759750"
+  },
+  {
+    "name": "The Slick Chick",
+    "year": 1962,
+    "imdb": "tt0056498",
+    "banner": "Looney Tunes",
+    "wikidata": "Q7764822"
+  },
+  {
+    "name": "The Solid Tin Coyote",
+    "year": 1966,
+    "imdb": "tt0061002",
+    "banner": "Looney Tunes",
+    "wikidata": "Q7765165"
+  },
+  {
+    "name": "The Spy Swatter",
+    "year": 1967,
+    "imdb": "tt0062300",
+    "banner": "Looney Tunes",
+    "wikidata": "Q7766085"
+  },
+  {
+    "name": "Beep Prepared",
+    "year": 1961,
+    "imdb": "tt0054674",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q814062"
+  },
+  {
+    "name": "From Hare to Heir",
+    "year": 1960,
+    "imdb": "tt0053840",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q950618"
+  },
+  {
+    "name": "Nelly's Folly",
+    "year": 1961,
+    "imdb": "tt0055223",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q1976905"
+  },
+  {
+    "name": "Hoppy Daze",
+    "year": 1960,
+    "imdb": "tt0054992",
+    "banner": "Looney Tunes",
+    "wikidata": "Q56305523"
+  },
+  {
+    "name": "Cannery Woe",
+    "year": 1961,
+    "imdb": "tt0054720",
+    "banner": "Looney Tunes",
+    "wikidata": "Q101229305"
+  },
+  {
+    "name": "Hairied and Hurried",
+    "year": 1965,
+    "imdb": "tt0059254",
+    "banner": "Looney Tunes",
+    "wikidata": "Q101229313"
+  },
+  {
+    "name": "Fish and Slips",
+    "year": 1962,
+    "imdb": "tt0055986",
+    "banner": "Looney Tunes",
+    "wikidata": "Q101240813"
+  },
+  {
+    "name": "Highway Runnery",
+    "year": 1965,
+    "imdb": "tt0059271",
+    "banner": "Looney Tunes",
+    "wikidata": "Q130532650"
+  },
+  {
+    "name": "Lighter Than Hare",
+    "year": 1960,
+    "imdb": "tt0054030",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q3238466"
+  },
+  {
+    "name": "Transylvania 6-5000",
+    "year": 1963,
+    "imdb": "tt0057600",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q3538025"
+  },
+  {
+    "name": "A Sheep in the Deep",
+    "year": 1962,
+    "imdb": "tt0055721",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q4659442"
+  },
+  {
+    "name": "A Taste of Catnip",
+    "year": 1966,
+    "imdb": "tt0061068",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q4659987"
+  },
+  {
+    "name": "Assault and Peppered",
+    "year": 1965,
+    "imdb": "tt0058923",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q4808577"
+  },
+  {
+    "name": "Banty Raids",
+    "year": 1963,
+    "imdb": "tt0056851",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q4857277"
+  },
+  {
+    "name": "Bill of Hare",
+    "year": 1962,
+    "imdb": "tt0055795",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q4911501"
+  },
+  {
+    "name": "Chili Weather",
+    "year": 1963,
+    "imdb": "tt0056932",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q5098936"
+  },
+  {
+    "name": "Compressed Hare",
+    "year": 1961,
+    "imdb": "tt0054760",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q5157013"
+  },
+  {
+    "name": "Corn on the Cop",
+    "year": 1965,
+    "imdb": "tt0059058",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q5171060"
+  },
+  {
+    "name": "D' Fightin' Ones",
+    "year": 1961,
+    "imdb": "tt0054779",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q5203190"
+  },
+  {
+    "name": "Daffy's Diner",
+    "year": 1967,
+    "imdb": "tt0061548",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q5208321"
+  },
+  {
+    "name": "Devil's Feud Cake",
+    "year": 1963,
+    "imdb": "tt0056990",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q5267131"
+  },
+  {
+    "name": "Dog Gone People",
+    "year": 1960,
+    "imdb": "tt0053777",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q5288190"
+  },
+  {
+    "name": "Dr. Devil and Mr. Hare",
+    "year": 1964,
+    "imdb": "tt0058036",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q5304057"
+  },
+  {
+    "name": "Feather Finger",
+    "year": 1966,
+    "imdb": "tt0060406",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q5439581"
+  },
+  {
+    "name": "Go Away Stowaway",
+    "year": 1967,
+    "imdb": "tt0061716",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q5574713"
+  },
+  {
+    "name": "Go Go Amigo",
+    "year": 1965,
+    "imdb": "tt0059234",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q5574788"
+  },
+  {
+    "name": "Hawaiian Aye Aye",
+    "year": 1964,
+    "imdb": "tt0058184",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q5684500"
+  },
+  {
+    "name": "Honey's Money",
+    "year": 1962,
+    "imdb": "tt0056077",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q5893342"
+  },
+  {
+    "name": "Injun Trouble",
+    "year": 1969,
+    "imdb": "tt0064487",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q6034373"
+  },
+  {
+    "name": "Mad as a Mars Hare",
+    "year": 1963,
+    "imdb": "tt0057272",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q6726083"
+  },
+  {
+    "name": "Merlin the Magic Mouse",
+    "year": 1967,
+    "imdb": "tt0061966",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q6819801"
+  },
+  {
+    "name": "Mother Was a Rooster",
+    "year": 1962,
+    "imdb": "tt0056251",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q6917454"
+  },
+  {
+    "name": "Mucho Locos",
+    "year": 1966,
+    "imdb": "tt0060719",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q6931076"
+  },
+  {
+    "name": "Person To Bunny",
+    "year": 1960,
+    "imdb": "tt0054174",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q7170442"
+  },
+  {
+    "name": "Ready, Woolen and Able",
+    "year": 1960,
+    "imdb": "tt0054234",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q7300634"
+  },
+  {
+    "name": "Road Runner a Go-Go",
+    "year": 1965,
+    "imdb": "tt0056416",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q7339406"
+  },
+  {
+    "name": "Snow Excuse",
+    "year": 1966,
+    "imdb": "tt0060995",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q7548223"
+  },
+  {
+    "name": "Speedy Ghost to Town",
+    "year": 1967,
+    "imdb": "tt0062297",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q7575718"
+  },
+  {
+    "name": "Strangled Eggs",
+    "year": 1961,
+    "imdb": "tt0055483",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q7621635"
+  },
+  {
+    "name": "The Dixie Fryer",
+    "year": 1960,
+    "imdb": "tt0053771",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q7730443"
+  },
+  {
+    "name": "The Last Hungry Cat",
+    "year": 1961,
+    "imdb": "tt0055072",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q7745824"
+  },
+  {
+    "name": "The Unmentionables",
+    "year": 1963,
+    "imdb": "tt0057624",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q7771665"
+  },
+  {
+    "name": "The Wild Chase",
+    "year": 1965,
+    "imdb": "tt0059911",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q7774850"
+  },
+  {
+    "name": "Trip For Tat",
+    "year": 1960,
+    "imdb": "tt0054404",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q7843187"
+  },
+  {
+    "name": "West of the Pesos",
+    "year": 1960,
+    "imdb": "tt0054467",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q7987086"
+  },
+  {
+    "name": "Wild Wild World",
+    "year": 1960,
+    "imdb": "tt0054477",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q8000864"
+  },
+  {
+    "name": "Woolen Under Where",
+    "year": 1963,
+    "imdb": "tt0057689",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q8033797"
+  },
+  {
+    "name": "Zip 'N Snort",
+    "year": 1961,
+    "imdb": "tt0055637",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q8072599"
+  },
+  {
+    "name": "Aqua Duck",
+    "year": 1963,
+    "imdb": "tt0056833",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q12101174"
+  },
+  {
+    "name": "Hyde and Go Tweet",
+    "year": 1960,
+    "imdb": "tt0053930",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q12124946"
+  },
+  {
+    "name": "Run, Run, Sweet Road Runner",
+    "year": 1965,
+    "imdb": "tt0059664",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q12127252"
+  },
+  {
+    "name": "Zoom at the Top",
+    "year": 1962,
+    "imdb": "tt0056723",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q12136255"
+  },
+  {
+    "name": "Chaser on the Rocks",
+    "year": 1965,
+    "imdb": "tt0059027",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q16200394"
+  },
+  {
+    "name": "To Beep or Not to Beep",
+    "year": 1963,
+    "imdb": "tt0057586",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q16205245"
+  },
+  {
+    "name": "Cats and Bruises",
+    "year": 1965,
+    "imdb": "tt0059021",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q16247255"
+  },
+  {
+    "name": "Rushing Roulette",
+    "year": 1965,
+    "imdb": "tt0059667",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q7380827"
+  },
+  {
+    "name": "Chimp and Zee",
+    "year": 1968,
+    "imdb": "tt0062800",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q131718663"
+  },
+  {
+    "name": "Road to Andalay",
+    "year": 1964,
+    "imdb": "tt0058528",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q16979240"
+  },
+  {
+    "name": "The Great Carrot Train Robbery",
+    "year": 1968,
+    "imdb": "tt0064392",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q16979388"
+  },
+  {
+    "name": "Quackodile Tears",
+    "year": 1962,
+    "imdb": "tt0056386",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q16979574"
+  },
+  {
+    "name": "Bartholomew Versus the Wheel",
+    "year": 1964,
+    "imdb": "tt0057873",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q18148715"
+  },
+  {
+    "name": "Fast Buck Duck",
+    "year": 1963,
+    "imdb": "tt0057053",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q21973794"
+  },
+  {
+    "name": "The Mouse on 57th Street",
+    "year": 1961,
+    "imdb": "tt0055199",
+    "banner": "Merrie Melodies",
+    "wikidata": "Q50280862"
+  }
+]
