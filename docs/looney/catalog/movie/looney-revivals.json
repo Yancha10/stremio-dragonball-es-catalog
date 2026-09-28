@@ -1,0 +1,31 @@
+{
+  "metas": [
+    {
+      "id": "tt0080663",
+      "type": "movie",
+      "name": "Duck Dodgers and the Return of the 24½th Century",
+      "poster": "https://images.metahub.space/poster/medium/tt0080663/img",
+      "background": "https://images.metahub.space/background/medium/tt0080663/img",
+      "posterShape": "poster",
+      "releaseInfo": "1980"
+    },
+    {
+      "id": "tt0101484",
+      "type": "movie",
+      "name": "(Blooper) Bunny",
+      "poster": "https://images.metahub.space/poster/medium/tt0101484/img",
+      "background": "https://images.metahub.space/background/medium/tt0101484/img",
+      "posterShape": "poster",
+      "releaseInfo": "1997"
+    },
+    {
+      "id": "tt0209106",
+      "type": "movie",
+      "name": "Little Go Beep",
+      "poster": "https://images.metahub.space/poster/medium/tt0209106/img",
+      "background": "https://images.metahub.space/background/medium/tt0209106/img",
+      "posterShape": "poster",
+      "releaseInfo": "2000"
+    }
+  ]
+}

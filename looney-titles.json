@@ -1,0 +1,25 @@
+{
+  "movies": [
+    ["The Bugs Bunny/Road Runner Movie",1979],
+    ["The Looney Looney Looney Bugs Bunny Movie",1981],
+    ["Bugs Bunny's 3rd Movie: 1001 Rabbit Tales",1982],
+    ["Daffy Duck's Fantastic Island",1983],
+    ["Daffy Duck's Quackbusters",1988],
+    ["Space Jam",1996],
+    ["Looney Tunes: Back in Action",2003],
+    ["Space Jam: A New Legacy",2021],
+    ["The Day the Earth Blew Up: A Looney Tunes Movie",2024]
+  ],
+  "series": [
+    ["The Bugs Bunny Show",1960],
+    ["Tiny Toon Adventures",1990],
+    ["Taz-Mania",1991],
+    ["The Sylvester & Tweety Mysteries",1995],
+    ["Baby Looney Tunes",2002],
+    ["The Looney Tunes Show",2011],
+    ["New Looney Tunes",2015],
+    ["Looney Tunes Cartoons",2020],
+    ["Bugs Bunny Builders",2022],
+    ["Tiny Toons Looniversity",2023]
+  ]
+}

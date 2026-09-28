@@ -1,0 +1,101 @@
+{
+  "movies": [
+    {
+      "name": "The Bugs Bunny/Road Runner Movie",
+      "year": 1979,
+      "imdb": "tt0078915"
+    },
+    {
+      "name": "The Looney Looney Looney Bugs Bunny Movie",
+      "year": 1981,
+      "imdb": "tt0082679"
+    },
+    {
+      "name": "Bugs Bunny's 3rd Movie: 1001 Rabbit Tales",
+      "year": 1982,
+      "imdb": "tt0083701"
+    },
+    {
+      "name": "Daffy Duck's Fantastic Island",
+      "year": 1983,
+      "imdb": "tt0085390"
+    },
+    {
+      "name": "Daffy Duck's Quackbusters",
+      "year": 1988,
+      "imdb": "tt0094939"
+    },
+    {
+      "name": "Space Jam",
+      "year": 1996,
+      "imdb": "tt0117705"
+    },
+    {
+      "name": "Looney Tunes: Back in Action",
+      "year": 2003,
+      "imdb": "tt0318155"
+    },
+    {
+      "name": "Space Jam: A New Legacy",
+      "year": 2021,
+      "imdb": "tt3554046"
+    },
+    {
+      "name": "The Day the Earth Blew Up: A Looney Tunes Movie",
+      "year": 2024,
+      "imdb": "tt15352542"
+    }
+  ],
+  "series": [
+    {
+      "name": "The Bugs Bunny Show",
+      "year": 1960,
+      "imdb": "tt0053488"
+    },
+    {
+      "name": "Tiny Toon Adventures",
+      "year": 1990,
+      "imdb": "tt0098929"
+    },
+    {
+      "name": "Taz-Mania",
+      "year": 1991,
+      "imdb": "tt0103562"
+    },
+    {
+      "name": "The Sylvester & Tweety Mysteries",
+      "year": 1995,
+      "imdb": "tt0112186"
+    },
+    {
+      "name": "Baby Looney Tunes",
+      "year": 2002,
+      "imdb": "tt0338580"
+    },
+    {
+      "name": "The Looney Tunes Show",
+      "year": 2011,
+      "imdb": "tt1726839"
+    },
+    {
+      "name": "New Looney Tunes",
+      "year": 2015,
+      "imdb": "tt4558858"
+    },
+    {
+      "name": "Looney Tunes Cartoons",
+      "year": 2020,
+      "imdb": "tt8543208"
+    },
+    {
+      "name": "Bugs Bunny Builders",
+      "year": 2022,
+      "imdb": "tt21050232"
+    },
+    {
+      "name": "Tiny Toons Looniversity",
+      "year": 2023,
+      "imdb": "tt13362852"
+    }
+  ]
+}

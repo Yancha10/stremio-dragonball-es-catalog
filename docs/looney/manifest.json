@@ -1,0 +1,119 @@
+{
+  "id": "community.looneytunes.es.catalog",
+  "version": "1.0.0",
+  "name": "Looney Tunes · Clásicos y más",
+  "description": "Cortos de Looney Tunes y Merrie Melodies por década, películas y series. Solo fichas; no incluye reproducción ni enlaces.",
+  "logo": "https://images.metahub.space/logo/medium/tt8543208/img",
+  "background": "https://images.metahub.space/background/medium/tt8543208/img",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "looney-clasicos",
+      "name": "Looney Tunes · Cortos 1930–1969",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "looney-1930",
+      "name": "Looney Tunes · Años 1930",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "looney-1940",
+      "name": "Looney Tunes · Años 1940",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "looney-1950",
+      "name": "Looney Tunes · Años 1950",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "looney-1960",
+      "name": "Looney Tunes · Años 1960",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "looney-lt",
+      "name": "Looney Tunes · Serie original",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "looney-mm",
+      "name": "Merrie Melodies · Serie original",
+      "extra": [
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "looney-esenciales",
+      "name": "Looney Tunes · Imprescindibles"
+    },
+    {
+      "type": "movie",
+      "id": "looney-revivals",
+      "name": "Looney Tunes · Cortos posteriores"
+    },
+    {
+      "type": "movie",
+      "id": "looney-peliculas",
+      "name": "Looney Tunes · Películas"
+    },
+    {
+      "type": "series",
+      "id": "looney-series",
+      "name": "Looney Tunes · Series"
+    }
+  ],
+  "behaviorHints": {
+    "adult": false,
+    "p2p": false,
+    "configurable": false
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "metas": [
+    {
+      "id": "tt0078915",
+      "type": "movie",
+      "name": "The Bugs Bunny/Road Runner Movie",
+      "poster": "https://images.metahub.space/poster/medium/tt0078915/img",
+      "background": "https://images.metahub.space/background/medium/tt0078915/img",
+      "posterShape": "poster",
+      "releaseInfo": "1979"
+    },
+    {
+      "id": "tt0082679",
+      "type": "movie",
+      "name": "The Looney Looney Looney Bugs Bunny Movie",
+      "poster": "https://images.metahub.space/poster/medium/tt0082679/img",
+      "background": "https://images.metahub.space/background/medium/tt0082679/img",
+      "posterShape": "poster",
+      "releaseInfo": "1981"
+    },
+    {
+      "id": "tt0083701",
+      "type": "movie",
+      "name": "Bugs Bunny's 3rd Movie: 1001 Rabbit Tales",
+      "poster": "https://images.metahub.space/poster/medium/tt0083701/img",
+      "background": "https://images.metahub.space/background/medium/tt0083701/img",
+      "posterShape": "poster",
+      "releaseInfo": "1982"
+    },
+    {
+      "id": "tt0085390",
+      "type": "movie",
+      "name": "Daffy Duck's Fantastic Island",
+      "poster": "https://images.metahub.space/poster/medium/tt0085390/img",
+      "background": "https://images.metahub.space/background/medium/tt0085390/img",
+      "posterShape": "poster",
+      "releaseInfo": "1983"
+    },
+    {
+      "id": "tt0094939",
+      "type": "movie",
+      "name": "Daffy Duck's Quackbusters",
+      "poster": "https://images.metahub.space/poster/medium/tt0094939/img",
+      "background": "https://images.metahub.space/background/medium/tt0094939/img",
+      "posterShape": "poster",
+      "releaseInfo": "1988"
+    },
+    {
+      "id": "tt0117705",
+      "type": "movie",
+      "name": "Space Jam",
+      "poster": "https://images.metahub.space/poster/medium/tt0117705/img",
+      "background": "https://images.metahub.space/background/medium/tt0117705/img",
+      "posterShape": "poster",
+      "releaseInfo": "1996"
+    },
+    {
+      "id": "tt0318155",
+      "type": "movie",
+      "name": "Looney Tunes: Back in Action",
+      "poster": "https://images.metahub.space/poster/medium/tt0318155/img",
+      "background": "https://images.metahub.space/background/medium/tt0318155/img",
+      "posterShape": "poster",
+      "releaseInfo": "2003"
+    },
+    {
+      "id": "tt3554046",
+      "type": "movie",
+      "name": "Space Jam: A New Legacy",
+      "poster": "https://images.metahub.space/poster/medium/tt3554046/img",
+      "background": "https://images.metahub.space/background/medium/tt3554046/img",
+      "posterShape": "poster",
+      "releaseInfo": "2021"
+    },
+    {
+      "id": "tt15352542",
+      "type": "movie",
+      "name": "The Day the Earth Blew Up: A Looney Tunes Movie",
+      "poster": "https://images.metahub.space/poster/medium/tt15352542/img",
+      "background": "https://images.metahub.space/background/medium/tt15352542/img",
+      "posterShape": "poster",
+      "releaseInfo": "2024"
+    }
+  ]
+}
